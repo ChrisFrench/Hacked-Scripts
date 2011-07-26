@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor v0.6.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-10 13:47+0000\n"
+"Last-Translator: Jirka Pech <jiri.pech@energyexpert.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#@ constructor
+msgid "Error 404 - Not Found"
+msgstr "Chyba 404 - Nenazeleno"
+
+#: 404.php:16
+#@ constructor
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Omlouváme se, ale obsah, který hledáte, bohužel není momentálně dostupný."
+
+#: admin/ajax/save.php:29
+#: admin/ajax/save.php:32
+#, php-format
+#@ constructor
+msgid "Directory \"%s\" is not writable."
+msgstr "Do adresáře \"%s\" nelze zapisovat."
+
+#: admin/ajax/save.php:49
+#: admin/ajax/save.php:61
+#: admin/ajax/save.php:65
+#, php-format
+#@ constructor
+msgid "Can't copy file \"%s\"."
+msgstr "Soubor \"%s\" nelze zkopírovat."
+
+#: admin/ajax/save.php:97
+#: admin/ajax/save.php:101
+#, php-format
+#@ constructor
+msgid "Can't save file \"%s\"."
+msgstr "Nelze uložit soubor \"%s\"."
+
+#: admin/ajax/save.php:104
+#@ constructor
+msgid "Theme was saved, please reload page for view changes"
+msgstr "Téma bylo uloženo, obnovte stránku pro zobrazení změn"
+
+#: admin/settings/colors.php:1
+#@ constructor
+msgid "Colors"
+msgstr "Barvy"
+
+#: admin/settings/colors.php:62
+#@ constructor
+msgid "Opacity"
+msgstr "Neprůhlednost"
+
+#: admin/settings/colors.php:64
+#: admin/settings/colors.php:65
+#: admin/settings/sidebar.php:86
+#: admin/settings/sidebar.php:87
+#@ constructor
+msgid "None"
+msgstr "Žádný"
+
+#: admin/settings/colors.php:67
+#: admin/settings/colors.php:68
+#@ constructor
+msgid "Color"
+msgstr "Barva"
+
+#: admin/settings/colors.php:71
+#: admin/settings/colors.php:72
+#@ constructor
+msgid "Dark Low"
+msgstr "Dark Low"
+
+#: admin/settings/colors.php:74
+#: admin/settings/colors.php:75
+#@ constructor
+msgid "Dark"
+msgstr "Tmavý"
+
+#: admin/settings/colors.php:77
+#: admin/settings/colors.php:78
+#@ constructor
+msgid "Dark High"
+msgstr "Dark High"
+
+#: admin/settings/colors.php:81
+#: admin/settings/colors.php:82
+#@ constructor
+msgid "Light Low"
+msgstr "Light Low"
+
+#: admin/settings/colors.php:84
+#: admin/settings/colors.php:85
+#@ constructor
+msgid "Light"
+msgstr "Světlý"
+
+#: admin/settings/colors.php:87
+#: admin/settings/colors.php:88
+#@ constructor
+msgid "Light High"
+msgstr "Light High"
+
+#: admin/settings/colors.php:93
+#@ constructor
+msgid "Shadow"
+msgstr "Stín"
+
+#: admin/settings/colors.php:96
+#@ constructor
+msgid "Only for Safari and Chrome"
+msgstr "Pouze pro Safari a Chrome"
+
+#: admin/settings/colors.php:100
+#@ constructor
+msgid "Elements Colors"
+msgstr "Barvy elementů"
+
+#: admin/settings/colors.php:103
+#@ constructor
+msgid "background"
+msgstr "pozadí"
+
+#: admin/settings/colors.php:106
+#@ constructor
+msgid "background alternative"
+msgstr "alternativní pozadí"
+
+#: admin/settings/colors.php:109
+#@ constructor
+msgid "opacity style color"
+msgstr "styl barvy neprůhlednosti"
+
+#: admin/settings/colors.php:112
+#@ constructor
+msgid "text"
+msgstr "text"
+
+#: admin/settings/colors.php:115
+#@ constructor
+msgid "text alternative"
+msgstr "alternativní text"
+
+#: admin/settings/colors.php:118
+#@ constructor
+msgid "border"
+msgstr "ohraničení"
+
+#: admin/settings/colors.php:121
+#@ constructor
+msgid "border alternative"
+msgstr "alternativní ohraničení"
+
+#: admin/settings/colors.php:124
+#: admin/settings/colors.php:127
+#: admin/settings/colors.php:130
+#@ constructor
+msgid "tags"
+msgstr "nálepky"
+
+#: admin/settings/content.php:1
+#@ constructor
+msgid "Content"
+msgstr "Obsah"
+
+#: admin/settings/content.php:6
+#@ constructor
+msgid "Posts"
+msgstr "Příspěvky"
+
+#: admin/settings/content.php:9
+#@ constructor
+msgid "Show author link"
+msgstr "Zobrazit odkaz autora"
+
+#: admin/settings/content.php:13
+#@ constructor
+msgid "Thumbnails"
+msgstr "Miniatury"
+
+#: admin/settings/content.php:16
+#@ constructor
+msgid "Autogenerate thumbnails"
+msgstr "Autogenerace náhledů"
+
+#: admin/settings/content.php:24
+#: admin/settings/images.php:20
+#: admin/settings/save.php:20
+#, php-format
+#@ constructor
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Varování!</b></font>: Do adresáře \"%s\" nelze zapisovat."
+
+#: admin/settings/content.php:28
+#@ constructor
+msgid "\"List\" layout options"
+msgstr "\"Seznam\" možnosti rozvržení"
+
+#: admin/settings/content.php:31
+#@ constructor
+msgid "Strip HTML tags from announce (leave only <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>)"
+msgstr "Odstranit HTML tagy z oznámení (nechat pouze <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>)"
+
+#: admin/settings/content.php:37
+#@ constructor
+msgid "Show \"No Image\" picture"
+msgstr "Zobrazit obrázek \"No Image\""
+
+#: admin/settings/content.php:42
+#@ constructor
+msgid "Thumbnail position"
+msgstr "Pozice náhledu"
+
+#: admin/settings/content.php:43
+#: admin/settings/header.php:25
+#: admin/settings/sidebar.php:76
+#: admin/settings/sidebar.php:77
+#@ constructor
+msgid "Left"
+msgstr "Vlevo"
+
+#: admin/settings/content.php:44
+#: admin/settings/header.php:27
+#: admin/settings/sidebar.php:79
+#: admin/settings/sidebar.php:80
+#@ constructor
+msgid "Right"
+msgstr "Vpravo"
+
+#: admin/settings/css.php:1
+#@ constructor
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/settings/css.php:5
+#, php-format
+#@ constructor
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Varování!</b></font>: Do souboru \"%s\" nelze zapsat."
+
+#: admin/settings/export.php:1
+#@ constructor
+msgid "Export"
+msgstr "Export"
+
+#: admin/settings/export.php:3
+#@ constructor
+msgid "Export Current Theme"
+msgstr "Exportovat aktuální téma"
+
+#: admin/settings/export.php:4
+#@ constructor
+msgid "Use this is options for export your changes"
+msgstr "Použití těchto možností pro export změn"
+
+#: admin/settings/export.php:4
+#@ constructor
+msgid "save changes before export"
+msgstr "uložit změny před exportem"
+
+#: admin/settings/export.php:7
+#@ constructor
+msgid "click here and save file"
+msgstr "klikněte zde a uložte soubor"
+
+#: admin/settings/export.php:13
+#, php-format
+#@ constructor
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "Pro import tématu - použijte FTP přístup a vytvořte novou složku ve <code>%s/themes</code> a nahrajte <code>config.php</code>"
+
+#: admin/settings/export.php:18
+#@ constructor
+msgid "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+msgstr "Vytvořit <code>style.css</code> s následým textem (změňte text VELKÝMI PÍSMENY)"
+
+#: admin/settings/export.php:32
+#@ constructor
+msgid "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't requried)"
+msgstr "Vytvořit <code>screenshot.png</code> s obrazovkou vašeho tématu v rozlišení 300x225 a nahrát (není vyžadováno)"
+
+#: admin/settings/fonts.php:1
+#@ constructor
+msgid "Fonts"
+msgstr "Fonty"
+
+#: admin/settings/fonts.php:18
+#@ constructor
+msgid "Header Font"
+msgstr "Font nadpisu"
+
+#: admin/settings/fonts.php:24
+#: admin/settings/fonts.php:40
+#@ constructor
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Příliš žluťoučký kůň úpěl ďábelské ódy"
+
+#: admin/settings/fonts.php:34
+#@ constructor
+msgid "Body Font"
+msgstr "Font těla"
+
+#: admin/settings/footer.php:1
+#@ constructor
+msgid "Footer"
+msgstr "Zápatí"
+
+#: admin/settings/footer.php:4
+#@ constructor
+msgid "Footer Text"
+msgstr "Text zápatí"
+
+#: admin/settings/header.php:1
+#@ constructor
+msgid "Header"
+msgstr "Hlavička"
+
+#: admin/settings/header.php:23
+#@ constructor
+msgid "Title position"
+msgstr "Pozice názvu"
+
+#: admin/settings/header.php:26
+#@ constructor
+msgid "Center"
+msgstr "Střed"
+
+#: admin/settings/header.php:32
+#@ constructor
+msgid "Title colors"
+msgstr "Barvy názvu"
+
+#: admin/settings/header.php:35
+#@ constructor
+msgid "title"
+msgstr "název"
+
+#: admin/settings/header.php:38
+#@ constructor
+msgid "description"
+msgstr "popis"
+
+#: admin/settings/header.php:44
+#@ constructor
+msgid "Header height"
+msgstr "Výška hlavičky"
+
+#: admin/settings/header.php:54
+#@ constructor
+msgid "Header menu"
+msgstr "Menu hlavičky"
+
+#: admin/settings/header.php:55
+#@ constructor
+msgid "menu can configured with <a href=\"widgets.php\">widgets</a>, use \"header\" sidebar"
+msgstr "menu má konfiguraci s <a href=\"widgets.php\">widgety</a>, použijte \"header\" sidebar"
+
+#: admin/settings/header.php:61
+#@ constructor
+msgid "Show top menu"
+msgstr "Zobrazit horní menu"
+
+#: admin/settings/header.php:64
+#: functions.php:313
+#: page.php:24
+#: sidebar.php:18
+#: single.php:25
+#: template-monocolumn.php:24
+#: template-parent.php:24
+#: template-sitemap.php:22
+#: widgets/many-in-one.php:50
+#@ constructor
+msgid "Pages"
+msgstr "Stránky"
+
+#: admin/settings/header.php:66
+#@ constructor
+msgid "Disable pages"
+msgstr "Zakázat stránky"
+
+#: admin/settings/header.php:67
+#@ constructor
+msgid "Show first-level pages"
+msgstr "Zobrazit stránky první úrovně"
+
+#: admin/settings/header.php:68
+#@ constructor
+msgid "Show pages in drop-down menu"
+msgstr "Zobrazit stránky ve vysouvacím menu"
+
+#: admin/settings/header.php:69
+#@ constructor
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Zobrazit stránky ve vysouvacím menu (2 úrovně)"
+
+#: admin/settings/header.php:71
+#: functions.php:265
+#: sidebar.php:20
+#: template-sitemap.php:27
+#: widgets/many-in-one.php:55
+#@ constructor
+msgid "Categories"
+msgstr "Kategorie"
+
+#: admin/settings/header.php:74
+#@ constructor
+msgid "Group categories in one menu item"
+msgstr "Sdružit kategorie v jedné položce menu"
+
+#: admin/settings/header.php:77
+#@ constructor
+msgid "Disable categories"
+msgstr "Zakázat kategorie"
+
+#: admin/settings/header.php:78
+#@ constructor
+msgid "Show first-level categories"
+msgstr "Zobrazit kategorie první úrovně"
+
+#: admin/settings/header.php:79
+#@ constructor
+msgid "Show categories in drop-down menu"
+msgstr "Zobrazit kategorie ve vysouvacím menu"
+
+#: admin/settings/header.php:80
+#@ constructor
+msgid "Show categories in drop-down menu (2-levels)"
+msgstr "Zobrazit kategorie ve vysouvacím menu (2 úrovně)"
+
+#: admin/settings/header.php:83
+#@ constructor
+msgid "Links"
+msgstr "Odkazy"
+
+#: admin/settings/header.php:86
+#@ constructor
+msgid "Show link to home page"
+msgstr "Ukázat odkaz na úvodní stránku"
+
+#: admin/settings/header.php:89
+#@ constructor
+msgid "Show link to RSS feed"
+msgstr "Ukázat odkaz na RSS feed"
+
+#: admin/settings/header.php:91
+#@ constructor
+msgid "Tools"
+msgstr "Nástroje"
+
+#: admin/settings/header.php:94
+#@ constructor
+msgid "Show search form"
+msgstr "Zobrazit vyhledávací formulář"
+
+#: admin/settings/help.php:1
+#@ constructor
+msgid "Help"
+msgstr "Nápověda"
+
+#: admin/settings/help.php:6
+#@ constructor
+msgid "Constructor Wordpress Theme"
+msgstr "Wordpress téma Constructor"
+
+#: admin/settings/help.php:8
+#@ constructor
+msgid "Project Homepage"
+msgstr "Domovská stránka projektu"
+
+#: admin/settings/help.php:9
+#@ constructor
+msgid "Author Homepage"
+msgstr "Domovská stránka autora"
+
+#: admin/settings/help.php:12
+#@ constructor
+msgid "Tile layout"
+msgstr "Umístění názvu"
+
+#: admin/settings/help.php:14
+#@ constructor
+msgid "For \"tile\" layout using images from custom fields with key <code>thumb</code> (or use autogenerate option on content tab)"
+msgstr "Pro umístění \"názvu\" s obrázky z vlastních polí s klíčem <code>thumb</code> (nebo použijte možnosti autogenerace na kartě obsahu)"
+
+#: admin/settings/help.php:17
+#@ constructor
+msgid "List layout"
+msgstr "Umístění seznamu"
+
+#: admin/settings/help.php:19
+#@ constructor
+msgid "For \"list\" layout using images from custom fields with key <code>thumb-list</code> (or use autogenerate option on content tab)"
+msgstr "Pro umístění \"seznamu\" s obrázky z vlastních polí s klíčem <code>thumb-list</code> (nebo použijte možnosti autogenerace na kartě obsahu)"
+
+#: admin/settings/help.php:22
+#: admin/settings/slideshow.php:2
+#: admin/settings/slideshow.php:88
+#@ constructor
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: admin/settings/help.php:24
+#@ constructor
+msgid "For slideshow using images from custom fields with key <code>thumb-slideshow</code> (by default, your can change it on slideshow tab)"
+msgstr "Pro umístění slideshow s obrázky z vlastních polí s klíčem <code>thumb-slideshow</code> (standardně lze změnit na záložce slideshow)"
+
+#: admin/settings/help.php:28
+#@ constructor
+msgid "Related Links"
+msgstr "Související odkazy"
+
+#: admin/settings/help.php:38
+#@ constructor
+msgid "Donate"
+msgstr "Dotovat"
+
+#: admin/settings/help.php:55
+#@ constructor
+msgid "Author works"
+msgstr "Práce autora"
+
+#: admin/settings/images.php:1
+#@ constructor
+msgid "Images"
+msgstr "Obrázky"
+
+#: admin/settings/images.php:24
+#@ constructor
+msgid "Body Image"
+msgstr "Obrázek těla"
+
+#: admin/settings/images.php:29
+#: admin/settings/images.php:75
+#: admin/settings/images.php:122
+#: admin/settings/images.php:162
+#: admin/settings/images.php:202
+#: admin/settings/images.php:242
+#@ constructor
+msgid "Preview image"
+msgstr "Nahlédnout obrázek"
+
+#: admin/settings/images.php:29
+#: admin/settings/images.php:75
+#: admin/settings/images.php:122
+#: admin/settings/images.php:162
+#: admin/settings/images.php:202
+#: admin/settings/images.php:242
+#@ constructor
+msgid "preview"
+msgstr "náhled"
+
+#: admin/settings/images.php:30
+#: admin/settings/images.php:76
+#: admin/settings/images.php:123
+#: admin/settings/images.php:163
+#: admin/settings/images.php:203
+#: admin/settings/images.php:243
+#@ constructor
+msgid "Remove image (only from theme)"
+msgstr "Odstranit obrázek (pouze z tématu)"
+
+#: admin/settings/images.php:30
+#: admin/settings/images.php:76
+#: admin/settings/images.php:123
+#: admin/settings/images.php:163
+#: admin/settings/images.php:203
+#: admin/settings/images.php:243
+#@ constructor
+msgid "clear"
+msgstr "smazat"
+
+#: admin/settings/images.php:37
+#: admin/settings/images.php:83
+#@ constructor
+msgid "Fixed position"
+msgstr "Pevná pozice"
+
+#: admin/settings/images.php:42
+#: admin/settings/images.php:88
+#: admin/settings/images.php:129
+#: admin/settings/images.php:169
+#: admin/settings/images.php:209
+#: admin/settings/images.php:249
+#@ constructor
+msgid "Image Position"
+msgstr "Pozice obrázku"
+
+#: admin/settings/images.php:43
+#: admin/settings/images.php:89
+#: admin/settings/images.php:130
+#: admin/settings/images.php:170
+#: admin/settings/images.php:210
+#: admin/settings/images.php:250
+#@ constructor
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+#: admin/settings/images.php:44
+#: admin/settings/images.php:90
+#: admin/settings/images.php:131
+#: admin/settings/images.php:171
+#: admin/settings/images.php:211
+#: admin/settings/images.php:251
+#@ constructor
+msgid "Top Center"
+msgstr "Ve středu nahoře"
+
+#: admin/settings/images.php:45
+#: admin/settings/images.php:91
+#: admin/settings/images.php:132
+#: admin/settings/images.php:172
+#: admin/settings/images.php:212
+#: admin/settings/images.php:252
+#@ constructor
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+#: admin/settings/images.php:49
+#: admin/settings/images.php:95
+#: admin/settings/images.php:136
+#: admin/settings/images.php:176
+#: admin/settings/images.php:216
+#: admin/settings/images.php:256
+#@ constructor
+msgid "Center Left"
+msgstr "Ve středu vlevo"
+
+#: admin/settings/images.php:50
+#: admin/settings/images.php:96
+#: admin/settings/images.php:137
+#: admin/settings/images.php:177
+#: admin/settings/images.php:217
+#: admin/settings/images.php:257
+#@ constructor
+msgid "Center Center"
+msgstr "Střed Střed"
+
+#: admin/settings/images.php:51
+#: admin/settings/images.php:97
+#: admin/settings/images.php:138
+#: admin/settings/images.php:178
+#: admin/settings/images.php:218
+#: admin/settings/images.php:258
+#@ constructor
+msgid "Center Right"
+msgstr "Ve středu vpravo"
+
+#: admin/settings/images.php:55
+#: admin/settings/images.php:101
+#: admin/settings/images.php:142
+#: admin/settings/images.php:182
+#: admin/settings/images.php:222
+#: admin/settings/images.php:262
+#@ constructor
+msgid "Bottom Left"
+msgstr "Vespod vlevo"
+
+#: admin/settings/images.php:56
+#: admin/settings/images.php:102
+#: admin/settings/images.php:143
+#: admin/settings/images.php:183
+#: admin/settings/images.php:223
+#: admin/settings/images.php:263
+#@ constructor
+msgid "Bottom Center"
+msgstr "Vespod na středu"
+
+#: admin/settings/images.php:57
+#: admin/settings/images.php:103
+#: admin/settings/images.php:144
+#: admin/settings/images.php:184
+#: admin/settings/images.php:224
+#: admin/settings/images.php:264
+#@ constructor
+msgid "Bottom Right"
+msgstr "Vespod vpravo"
+
+#: admin/settings/images.php:60
+#: admin/settings/images.php:106
+#: admin/settings/images.php:148
+#: admin/settings/images.php:188
+#: admin/settings/images.php:228
+#: admin/settings/images.php:267
+#@ constructor
+msgid "Image Repeat"
+msgstr "Opakování obrázku"
+
+#: admin/settings/images.php:61
+#: admin/settings/images.php:107
+#: admin/settings/images.php:149
+#: admin/settings/images.php:189
+#: admin/settings/images.php:229
+#: admin/settings/images.php:268
+#@ constructor
+msgid "No Repeat"
+msgstr "Žádné opakování"
+
+#: admin/settings/images.php:62
+#: admin/settings/images.php:108
+#: admin/settings/images.php:150
+#: admin/settings/images.php:190
+#: admin/settings/images.php:230
+#: admin/settings/images.php:269
+#@ constructor
+msgid "Repeat Horizontal"
+msgstr "Opakovat horizontálně"
+
+#: admin/settings/images.php:64
+#: admin/settings/images.php:110
+#: admin/settings/images.php:152
+#: admin/settings/images.php:192
+#: admin/settings/images.php:232
+#: admin/settings/images.php:271
+#@ constructor
+msgid "Repeat Vertical"
+msgstr "Opakovat vertikálně"
+
+#: admin/settings/images.php:65
+#: admin/settings/images.php:111
+#: admin/settings/images.php:153
+#: admin/settings/images.php:193
+#: admin/settings/images.php:233
+#: admin/settings/images.php:272
+#: admin/settings/layout.php:15
+#: admin/settings/layout.php:16
+#: admin/settings/layout.php:29
+#: admin/settings/layout.php:30
+#: admin/settings/layout.php:43
+#: admin/settings/layout.php:44
+#: admin/settings/layout.php:57
+#: admin/settings/layout.php:58
+#@ constructor
+msgid "Tile"
+msgstr "Název"
+
+#: admin/settings/images.php:70
+#@ constructor
+msgid "Background Image"
+msgstr "Obrázek na pozadí"
+
+#: admin/settings/images.php:117
+#@ constructor
+msgid "Content Image"
+msgstr "Obrázek obsahu"
+
+#: admin/settings/images.php:157
+#@ constructor
+msgid "Sidebar Image"
+msgstr "Obrázek postranního panelu"
+
+#: admin/settings/images.php:197
+#@ constructor
+msgid "Extrabar Image"
+msgstr "Obrázek extra panelu"
+
+#: admin/settings/images.php:237
+#@ constructor
+msgid "Footer Image"
+msgstr "Obrázek patičky"
+
+#: admin/settings/layout.php:1
+#@ constructor
+msgid "Layout"
+msgstr "Rozložení"
+
+#: admin/settings/layout.php:10
+#@ constructor
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#: admin/settings/layout.php:12
+#: admin/settings/layout.php:13
+#: admin/settings/layout.php:26
+#: admin/settings/layout.php:27
+#: admin/settings/layout.php:40
+#: admin/settings/layout.php:41
+#: admin/settings/layout.php:54
+#: admin/settings/layout.php:55
+#: admin/settings/slideshow.php:92
+#: admin/settings/slideshow.php:93
+#@ constructor
+msgid "Default"
+msgstr "Výchozí"
+
+#: admin/settings/layout.php:18
+#: admin/settings/layout.php:19
+#: admin/settings/layout.php:32
+#: admin/settings/layout.php:33
+#: admin/settings/layout.php:46
+#: admin/settings/layout.php:47
+#: admin/settings/layout.php:60
+#: admin/settings/layout.php:61
+#@ constructor
+msgid "List"
+msgstr "Seznam"
+
+#: admin/settings/layout.php:24
+#@ constructor
+msgid "Archive"
+msgstr "Archiv"
+
+#: admin/settings/layout.php:38
+#@ constructor
+msgid "Search"
+msgstr "Hledat"
+
+#: admin/settings/layout.php:52
+#@ constructor
+msgid "Index"
+msgstr "Index"
+
+#: admin/settings/save.php:1
+#@ constructor
+msgid "Save As"
+msgstr "Uložit jako"
+
+#: admin/settings/save.php:13
+#@ constructor
+msgid "Save Current Theme As ..."
+msgstr "Uložit aktuální téma jako ..."
+
+#: admin/settings/save.php:24
+#@ constructor
+msgid "Theme Name"
+msgstr "Název tématu"
+
+#: admin/settings/save.php:28
+#@ constructor
+msgid "Theme URI"
+msgstr "URI tématu"
+
+#: admin/settings/save.php:32
+#@ constructor
+msgid "Description"
+msgstr "Popis"
+
+#: admin/settings/save.php:36
+#@ constructor
+msgid "Version"
+msgstr "Verze"
+
+#: admin/settings/save.php:40
+#@ constructor
+msgid "Author"
+msgstr "Autor"
+
+#: admin/settings/save.php:44
+#@ constructor
+msgid "Author URI"
+msgstr "URI autora"
+
+#: admin/settings/save.php:49
+#@ constructor
+msgid "Save Theme"
+msgstr "Uložit téma"
+
+#: admin/settings/sidebar.php:1
+#: admin/settings/sidebar.php:74
+#@ constructor
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: admin/settings/sidebar.php:47
+#@ constructor
+msgid "Width"
+msgstr "Šířka"
+
+#: admin/settings/sidebar.php:50
+#@ constructor
+msgid "Container Width"
+msgstr "Šířka kontejneru"
+
+#: admin/settings/sidebar.php:59
+#@ constructor
+msgid "Sidebar Width"
+msgstr "Šířka postranního panelu"
+
+#: admin/settings/sidebar.php:68
+#@ constructor
+msgid "Extra Bar Width"
+msgstr "Šířka extra panelu"
+
+#: admin/settings/sidebar.php:83
+#: admin/settings/sidebar.php:84
+#@ constructor
+msgid "Two"
+msgstr "Dva"
+
+#: admin/settings/sidebar.php:90
+#: admin/settings/sidebar.php:91
+#@ constructor
+msgid "Two Right"
+msgstr "Dva vpravo"
+
+#: admin/settings/sidebar.php:93
+#: admin/settings/sidebar.php:94
+#@ constructor
+msgid "Two Left"
+msgstr "Dva vlevo"
+
+#: admin/settings/slideshow.php:28
+#@ constructor
+msgid "Enable slideshow"
+msgstr "Povolit slideshow"
+
+#: admin/settings/slideshow.php:34
+#@ constructor
+msgid "By default use images from posts with custom field <code>thumb-slideshow</code>"
+msgstr "Jako výchozí používat obrázky z příspěvků s uživatelským polem <code>thumb-slideshow</code>"
+
+#: admin/settings/slideshow.php:38
+#@ constructor
+msgid "Options"
+msgstr "Možnosti"
+
+#: admin/settings/slideshow.php:41
+#@ constructor
+msgid "Show on page"
+msgstr "Zobrazit na stránce"
+
+#: admin/settings/slideshow.php:44
+#@ constructor
+msgid "Show on single post"
+msgstr "Zobrazit u příspěvku"
+
+#: admin/settings/slideshow.php:50
+#@ constructor
+msgid "Height"
+msgstr "Výška"
+
+#: admin/settings/slideshow.php:59
+#@ constructor
+msgid "Advanced options"
+msgstr "Pokročilé volby"
+
+#: admin/settings/slideshow.php:60
+#@ constructor
+msgid "only for default slideshow"
+msgstr "pouze pro výchozí slideshow"
+
+#: admin/settings/slideshow.php:64
+#@ constructor
+msgid "Number of slides"
+msgstr "Počet snímků"
+
+#: admin/settings/slideshow.php:67
+#@ constructor
+msgid "Key of custom field"
+msgstr "Klíč uživatelského pole"
+
+#: admin/settings/slideshow.php:71
+#@ constructor
+msgid "Position"
+msgstr "Umístění"
+
+#: admin/settings/slideshow.php:73
+#: admin/settings/slideshow.php:74
+#@ constructor
+msgid "In Content"
+msgstr "V obsahu"
+
+#: admin/settings/slideshow.php:77
+#: admin/settings/slideshow.php:78
+#@ constructor
+msgid "Over Content"
+msgstr "Přes obsah"
+
+#: admin/settings/slideshow.php:89
+#@ constructor
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "použít <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: admin/settings/slideshow.php:107
+#@ constructor
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Můžete použít <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin pro vybudování slideshow"
+
+#: admin/settings/themes.php:1
+#@ constructor
+msgid "Themes"
+msgstr "Témata"
+
+#: admin/settings/themes.php:42
+#@ constructor
+msgid "File \"style.css\" is not exists"
+msgstr "Soubor \"style.css\" neexistuje"
+
+#: admin/settings/themes.php:43
+#@ constructor
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: admin/settings/themes.php:55
+#@ constructor
+msgid "version"
+msgstr "verze"
+
+#: admin/settings.php:71
+#, php-format
+#@ constructor
+msgid "System can't create \"%s\" directory"
+msgstr "Systém nemůže vytvořit adresář \"%s\""
+
+#: admin/settings.php:86
+#, php-format
+#@ constructor
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "Soubor \"%s\" není obrázek (jpeg, png, gif)"
+
+#: admin/settings.php:175
+#: admin/settings.php:230
+#@ constructor
+msgid "Customize Theme"
+msgstr "Přizpůsobit téma"
+
+#: admin/settings.php:175
+#@ constructor
+msgid "Customize"
+msgstr "Přizpůsobit"
+
+#: admin/settings.php:233
+msgid "If you like this theme and find it useful, help keep this theme free and actively developed by clicking the donate button (via PayPal or CC)"
+msgstr ""
+
+#: admin/settings.php:237
+msgid "Options saved."
+msgstr ""
+
+#: admin/settings.php:242
+#@ constructor
+msgid "Errors"
+msgstr "Chyby"
+
+#: admin/settings.php:269
+#@ constructor
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: author.php:22
+#@ constructor
+msgid "Author RSS Feed"
+msgstr "RSS kanál autora"
+
+#: author.php:22
+#: functions.php:283
+#@ constructor
+msgid "RSS Feed"
+msgstr "RSS kanál"
+
+#: author.php:28
+#: author.php:32
+#, php-format
+#@ constructor
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: author.php:31
+#@ constructor
+msgid "Full Name"
+msgstr "Celé jméno"
+
+#: author.php:35
+#@ constructor
+msgid "Nickname"
+msgstr "Přezdívka"
+
+#: author.php:40
+#: comments.php:74
+#@ constructor
+msgid "Website"
+msgstr "Webová stránka"
+
+#: author.php:41
+#@ constructor
+msgid "Visit author website"
+msgstr "Navštivte internetové stránky autora"
+
+#: author.php:45
+#@ constructor
+msgid "ICQ"
+msgstr "ICQ"
+
+#: author.php:50
+#@ constructor
+msgid "AIM"
+msgstr "AIM"
+
+#: author.php:55
+#@ constructor
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: author.php:60
+#@ constructor
+msgid "MSN"
+msgstr "MSN"
+
+#: author.php:65
+#@ constructor
+msgid "About Me"
+msgstr "O mé osobě"
+
+#: author.php:74
+#, php-format
+#@ constructor
+msgid "Last posts by %s"
+msgstr "Poslední příspěvky %s"
+
+#: author.php:83
+#: layout-default.php:17
+#: layout-list.php:18
+#: layout-tile.php:17
+#: page.php:20
+#: single.php:21
+#: template-archive.php:49
+#: template-authors.php:17
+#: template-monocolumn.php:19
+#: template-parent.php:17
+#: template-sitemap.php:17
+#, php-format
+#@ constructor
+msgid "Permanent Link to %s"
+msgstr "Trvalý odkaz na %s"
+
+#: author.php:87
+#@ constructor
+msgid "No posts by this author."
+msgstr "Žádné příspěvky od tohoto autora."
+
+#: author.php:96
+#: layout-default.php:36
+#: layout-list.php:33
+#: layout-tile.php:31
+#@ constructor
+msgid "Newer Entries &raquo;"
+msgstr "Novější příspěvky &raquo;"
+
+#: author.php:97
+#: layout-default.php:35
+#: layout-list.php:32
+#: layout-tile.php:30
+#@ constructor
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Starší příspěvky"
+
+#: comments.php:12
+#@ constructor
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento příspěvek je chráněný heslem. Zadejte heslo pro zobrazení komentářů."
+
+#: comments.php:21
+#@ constructor
+msgid "No Responses"
+msgstr "Žádné reakce"
+
+#: comments.php:21
+#@ constructor
+msgid "One Response"
+msgstr "Jedna reakce"
+
+#: comments.php:21
+#@ constructor
+msgid "% Responses"
+msgstr "Reakce (%)"
+
+#: comments.php:21
+#, php-format
+#@ constructor
+msgid "to &#8220;%s&#8221;"
+msgstr "do &#8220;%s&#8221;"
+
+#: comments.php:39
+#@ constructor
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#: comments.php:49
+#@ constructor
+msgid "Leave a Reply"
+msgstr "Reagovat"
+
+#: comments.php:49
+#, php-format
+#@ constructor
+msgid "Leave a Reply for %s"
+msgstr "Reagovat na %s"
+
+#: comments.php:56
+#, php-format
+#@ constructor
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Pro uložení komentáře se musíte <a href=\"%s\">přihlásit</a>."
+
+#: comments.php:63
+#, php-format
+#@ constructor
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Přihlášen <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:63
+#@ constructor
+msgid "Log out of this account"
+msgstr "Odhlásit se z tohoto účtu"
+
+#: comments.php:63
+#@ constructor
+msgid "Log out &raquo;"
+msgstr "Odhlásit &raquo;"
+
+#: comments.php:68
+#@ constructor
+msgid "Name"
+msgstr "Jméno"
+
+#: comments.php:68
+#: comments.php:71
+#@ constructor
+msgid "(required)"
+msgstr "(povinné)"
+
+#: comments.php:71
+#@ constructor
+msgid "Mail (will not be published)"
+msgstr "E-mail (nebude zveřejněn)"
+
+#: comments.php:78
+#, php-format
+#@ constructor
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Můžete použít tyto značky: <code>%s</code>"
+
+#: comments.php:82
+#@ constructor
+msgid "Submit Comment"
+msgstr "Odeslat komentář"
+
+#: functions.php:251
+#@ constructor
+msgid "Home"
+msgstr "Domů"
+
+#: functions.php:349
+#: functions.php:351
+#: functions.php:360
+#: page.php:23
+#: single.php:24
+#: slideshow.php:26
+#: template-archive.php:52
+#: template-authors.php:21
+#: template-monocolumn.php:23
+#: template-parent.php:20
+#: template-sitemap.php:21
+#@ constructor
+msgid "Read the rest of this entry &raquo;"
+msgstr "Číst dále &raquo;"
+
+#: functions.php:377
+#, php-format
+#@ constructor
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s je provozován na %2$s"
+
+#: functions.php:378
+#@ constructor
+msgid "Constructor Theme"
+msgstr "Constructor Theme"
+
+#: functions.php:379
+#, php-format
+#@ constructor
+msgid "%1$s and %2$s."
+msgstr "%1$s a %2$s."
+
+#: functions.php:379
+#@ constructor
+msgid "Entries (RSS)"
+msgstr "Příspěvky (RSS)"
+
+#: functions.php:379
+#@ constructor
+msgid "Comments (RSS)"
+msgstr "Komentáře (RSS)"
+
+#: functions.php:383
+#, php-format
+#@ constructor
+msgid "%d queries. %s seconds."
+msgstr "%d dotazů. %s sekund."
+
+#: functions.php:410
+#: functions.php:421
+#@ constructor
+msgid "No Image"
+msgstr "Žádný obrázek"
+
+#: layout-default.php:26
+#: page.php:32
+#: sidebar.php:22
+#: single.php:31
+#: template-monocolumn.php:32
+#: template-parent.php:32
+#@ constructor
+msgid "Tags"
+msgstr "Nálepky"
+
+#: layout-default.php:27
+#: page.php:33
+#: single.php:32
+#: template-archive.php:86
+#: template-authors.php:31
+#: template-monocolumn.php:33
+#: template-parent.php:33
+#: template-sitemap.php:55
+#@ constructor
+msgid "Edit"
+msgstr "Upravit"
+
+#: layout-default.php:28
+#: page.php:34
+#: single.php:33
+#: template-monocolumn.php:34
+#: template-parent.php:34
+#@ constructor
+msgid "No Comments &#187;"
+msgstr "Žádné reakce &#187;"
+
+#: layout-default.php:28
+#: page.php:34
+#: single.php:33
+#: template-monocolumn.php:34
+#: template-parent.php:34
+#@ constructor
+msgid "1 Comment &#187;"
+msgstr "Jedna reakce &#187;"
+
+#: layout-default.php:28
+#: page.php:34
+#: single.php:33
+#: template-monocolumn.php:34
+#: template-parent.php:34
+#@ constructor
+msgid "% Comments &#187;"
+msgstr "Reakce (%) &#187;"
+
+#: layout-default.php:28
+#: page.php:34
+#: single.php:33
+#: template-monocolumn.php:34
+#: template-parent.php:34
+#@ constructor
+msgid "Comments Closed"
+msgstr "Komentáře uzavřeny"
+
+#: page.php:29
+#: template-archive.php:84
+#: template-authors.php:29
+#: template-monocolumn.php:29
+#: template-parent.php:29
+#: template-sitemap.php:53
+#@ constructor
+msgid "Back to Parent Page"
+msgstr "Zpět na nadřízenou stránku"
+
+#: sidebar.php:27
+#@ constructor
+msgid "Meta"
+msgstr "Meta"
+
+#: template-archive.php:30
+#, php-format
+#@ constructor
+msgid "%b"
+msgstr "%b"
+
+#: template-archive.php:31
+#, php-format
+#@ constructor
+msgid "%B"
+msgstr "%B"
+
+#: template-sitemap.php:32
+#@ constructor
+msgid "Archives"
+msgstr "Archiv"
+
+#: widgets/many-in-one.php:23
+msgid "Global categories"
+msgstr ""
+
+#: widgets/many-in-one.php:24
+#@ constructor
+msgid "Many In One"
+msgstr "Mnoho v jednom"
+

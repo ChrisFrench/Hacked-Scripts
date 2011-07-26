@@ -1,0 +1,1512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mystique Brasil 1.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-28 21:05-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Atilio Baroni Filho <atilio.baroni@gmail.com>\n"
+"Language-Team: Atilio Baroni Filho <atilio@conhece-te.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SearchPath-0: E:\\Meus Documentos\\Atilio\\Site Conhece-te\\mystique\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/404.php:12
+msgid "The requested page was not found"
+msgstr "A página requisitada não foi encontrada"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:19
+#, php-format
+msgid "Posts tagged %s"
+msgstr "Artigos com o marcador %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:21
+#: Conhece-te\mystique/archive.php:23
+#, php-format
+msgid "Archive for %s"
+msgstr "Arquivo de %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:23
+msgid "F, Y"
+msgstr "F Y"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:25
+#, php-format
+msgid "Archive for year %s"
+msgstr "Arquivo do ano de %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:25
+msgid "Y"
+msgstr "Y"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:27
+msgid "Author archive"
+msgstr "Arquivo do Autor"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:29
+msgid "Blog Archives"
+msgstr "Arquivos do Blog"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:41
+#: Conhece-te\mystique/author.php:53
+#: Conhece-te\mystique/index.php:19
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Artigos Anteriores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:42
+#: Conhece-te\mystique/author.php:54
+#: Conhece-te\mystique/index.php:20
+msgid "Newer Entries &raquo;"
+msgstr "Artigos Recentes &raquo;"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:49
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Desculpe, mas ainda não há nenhum artigo na gategoria %s."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:51
+msgid "Sorry, but there aren't any posts within this date."
+msgstr "Desculpe, mas ainda não há nenhum artigo nesta data."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:54
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Desculpe, mas ainda não há nenhum artigo escrito por %s."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/archive.php:56
+msgid "No posts found."
+msgstr "Nenhum artigo encontrado."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:27
+msgid "This user hasn't shared any biographical information"
+msgstr "Este usuário ainda não compartilhou nenhuma informação biográfica"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:32
+msgid "Homepage:"
+msgstr "Homepage:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:33
+msgid "Yahoo Messenger:"
+msgstr "Yahoo Messenger:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:34
+msgid "Jabber/GTalk:"
+msgstr "Jabber/GTalk:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:35
+msgid "AIM:"
+msgstr "AIM:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:42
+#: Conhece-te\mystique/image.php:31
+#, php-format
+msgid "Posts by %s"
+msgstr "Artigos por %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/author.php:59
+msgid "No posts found by this author."
+msgstr "Não foi encontrado nenhum artigo escrito por este autor."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:3
+msgid "Enter your password to view comments"
+msgstr "Digite sua senha para visualizar comentários"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:42
+msgid "Related Posts"
+msgstr "Artigos Relacionados"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:43
+#, php-format
+msgid "Trackbacks (%s)"
+msgstr "Trackbacks (%s)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:44
+#: Conhece-te\mystique/comments.php:50
+#, php-format
+msgid "Comments (%s)"
+msgstr "Comentários (%s)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:69
+msgid "No comments yet."
+msgstr "Nenhum comentário ainda."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Você precisa <a href=\"%s\">se registrar</a> para deixar um comentário."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:102
+#: Conhece-te\mystique/comments.php:128
+#: Conhece-te\mystique/comments.php:129
+msgid "Name (required)"
+msgstr "Nome (obrigatório)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:103
+#: Conhece-te\mystique/comments.php:132
+#: Conhece-te\mystique/comments.php:133
+msgid "E-mail (required, will not be published)"
+msgstr "E-mail (obrigatório, não será publicado)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:104
+#: Conhece-te\mystique/comments.php:136
+#: Conhece-te\mystique/comments.php:137
+msgid "Website"
+msgstr "Website"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:111
+msgid "Cancel Reply"
+msgstr "Cancelar Resposta"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:118
+#, php-format
+msgid "Logged in as %s."
+msgstr "Registrado como %s."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:120
+msgid "Log out of this account"
+msgstr "Sair desta conta"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:120
+msgid "Logout &raquo;"
+msgstr "Sair &raquo;"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:124
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "Bem-vindo de volta <strong>%s</strong>."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:124
+msgid "Change &raquo;"
+msgstr "Mudar &raquo;"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:152
+#, php-format
+msgid "Spam protection: Sum of %1$s + %2$s = ?"
+msgstr "Proteção contra Spam: A soma de %1$s + %2$s = ?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:161
+msgid "Submit Comment"
+msgstr "Enviar Comentário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:184
+msgid "No trackbacks yet."
+msgstr "Nenhum trackback ainda."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:201
+msgid "No comments"
+msgstr "Nenhum comentário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:201
+msgid "1 comment"
+msgstr "1 comentário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:201
+#, php-format
+msgid "% comments"
+msgstr "% comentários"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/comments.php:219
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/featured-posts.php:42
+msgid "Read more"
+msgstr "Leia mais"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:58
+msgid "Search"
+msgstr "Pesquisar"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:84
+#, php-format
+msgid "about %s year ago"
+msgid_plural "about %s years ago"
+msgstr[0] "há %s ano atrás"
+msgstr[1] "há %s anos atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:85
+#, php-format
+msgid "about %s month ago"
+msgid_plural "about %s months ago"
+msgstr[0] "há %s mês atrás"
+msgstr[1] "há %s meses atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:86
+#, php-format
+msgid "about %s week ago"
+msgid_plural "about %s weeks ago"
+msgstr[0] "há %s semana atrás"
+msgstr[1] "há %s semanas atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:87
+#, php-format
+msgid "about %s day ago"
+msgid_plural "about %s days ago"
+msgstr[0] "há %s dia atrás"
+msgstr[1] "há %s dias atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:88
+#, php-format
+msgid "about %s hour ago"
+msgid_plural "about %s hours ago"
+msgstr[0] "há %s hora atrás"
+msgstr[1] "há %s horas atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:89
+#, php-format
+msgid "about %s minute ago"
+msgid_plural "about %s minutes ago"
+msgstr[0] "há %s minuto atrás"
+msgstr[1] "há %s minutos atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:90
+#, php-format
+msgid "about %s second ago"
+msgid_plural "about %s seconds ago"
+msgstr[0] "há %s segundo atrás"
+msgstr[1] "há %s segundos atrás"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:283
+msgid "Default sidebar"
+msgstr "Barra lateral padrão"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:285
+msgid "This is the default sidebar, visible on 2 or 3 column layouts. If no widgets are active, the default theme widgets will be displayed instead."
+msgstr "Esta é a barra lateral padrão, visível nos layouts com 2 ou 3 colunas. Se nenhum widget está ativado, os widgets padrão do tema serão exibidos."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:293
+msgid "Secondary sidebar"
+msgstr "Barra lateral secundária"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:295
+msgid "This sidebar is active only on a 3 column setup. "
+msgstr "Esta barra lateral é ativada apenas na configuração de 3 colunas."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:303
+msgid "Footer"
+msgstr "Rodapé"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:305
+msgid "You can add between 1 and 6 widgets here (3 or 4 are optimal). They will adjust their size based on the widget count. "
+msgstr "Você pode adicionar entre 1 e 6 widgets aqui (3 ou 4 é melhor). Eles ajustarão seus tamanhos baseados no número de widgets."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:313
+msgid "Footer (slide 2)"
+msgstr "Rodapé (slide 2)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:315
+#: Conhece-te\mystique/functions.php:325
+#: Conhece-te\mystique/functions.php:335
+msgid "Only visible if jQuery is enabled. "
+msgstr "Visível apenas se o jQuery está ativado."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:323
+msgid "Footer (slide 3)"
+msgstr "Rodapé (slide 3)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:333
+msgid "Footer (slide 4)"
+msgstr "Rodapé (slide 4)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:349
+msgid "Share this post!"
+msgstr "Compartilhe este artigo!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:401
+#, php-format
+msgid "%1$s written by %2$s"
+msgstr "%1$s escrito por %2$s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:407
+msgid "Reply"
+msgstr "Responder"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:408
+msgid "Quote"
+msgstr "Citar"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/functions.php:414
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/header.php:47
+msgid "RSS Feeds"
+msgstr "RSS Feeds"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/header.php:55
+msgid "Follow me on Twitter!"
+msgstr "Siga-me no Twitter!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/header.php:64
+msgid "You are Home"
+msgstr "Você está no Início"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/header.php:64
+#: Conhece-te\mystique/header.php:66
+msgid "Home"
+msgstr "Início"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/header.php:66
+msgid "Click for Home"
+msgstr "Clique para ir ao Início"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:19
+msgid "More &gt;"
+msgstr "Mais &gt;"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:31
+#, php-format
+msgid "This entry was posted by %1$s on %2$s at %3$s, and is filled under %4$s. Follow any responses to this post through %5$s."
+msgstr "Este artigo foi escrito por %1$s em %2$s às %3$s, e está arquivado em %4$s. Siga quaisquer respostas a este artigo através do %5$s."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:35
+#, php-format
+msgid "You can <a%1$s>leave a response</a> or <a%2$s>trackback</a> from your own site."
+msgstr "Você pode <a%1$s>deixar uma resposta</a> ou fazer um <a%2$s>trackback</a> do seu próprio site."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:39
+#, php-format
+msgid "Responses are currently closed, but you can <a%1$s>trackback</a> from your own site."
+msgstr "Respostas estão encerradas no momento, mas você pode fazer um <a%1$s>trackback</a> do seu próprio site."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:43
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Você pode pular para o final e deixar uma resposta. Pinging não está autorizado no momento."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:47
+msgid "Both comments and pings are currently closed."
+msgstr "Tanto comentários quanto pings estão encerrados no momento."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:49
+msgid "Edit this entry"
+msgstr "Edite esta inserção"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/image.php:61
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Desculpe, nenhum anexo foi encontrado de acordo com seus critérios."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/index.php:24
+msgid "No posts found"
+msgstr "Nenhum artigo encontrado"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/index.php:25
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Desculpe, mas você está procurando por algo que não se encontra aqui."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/post.php:18
+msgid "Permanent Link:"
+msgstr "Link Permanente:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/post.php:21
+msgid "M jS"
+msgstr "d/m/y"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/post.php:25
+#, php-format
+msgid "Posted by %1$s in %2$s"
+msgstr "Escrito por %1$s em %2$s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/post.php:28
+msgid "Edit"
+msgstr "Editar"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/post.php:60
+#, php-format
+msgid "%1$s (%2$s topics)"
+msgstr "%1$s (%2$s tópicos)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/search.php:18
+#, php-format
+msgid "Search Results for %s"
+msgstr "Resultados da pesquisa para %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/search.php:42
+msgid "Nothing found."
+msgstr "Nada foi encontrado."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/search.php:42
+msgid "Try a different search?"
+msgstr "Quer tentar outra pesquisa?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/search.php:46
+msgid "What do you wish to search for?"
+msgstr "O que você deseja procurar?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/searchform.php:11
+#, php-format
+msgid "You have searched the archives for %s"
+msgstr "Você procurou nos arquivos por %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/searchform.php:13
+msgid "Type a valid search term..."
+msgstr "Digite um termo de pesquisa válido..."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/sidebar.php:22
+#: Conhece-te\mystique/lib/widgets.php:416
+msgid "My latest tweets"
+msgstr "Meus tweets recentes"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/sidebar.php:30
+msgid "Blogroll"
+msgstr "Lista de Blogs"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/sidebar2.php:8
+msgid "2nd sidebar is active. Add widgets here from the Dashboard"
+msgstr "A segunda barra lateral foi ativada. Adicione widgets do Painel aqui"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/single.php:35
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/single.php:39
+msgid "Tags:"
+msgstr "Marcadores:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:5
+msgid "Insert Ad slot #1 in every post and page"
+msgstr "Inserir o Espaço de Anúncio #1 em cada postagem e página"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:16
+msgid "Insert Ad slot #2 at every 5 comments"
+msgstr "Inserir o Espaço de Anúncio #2 a cada 5 comentários"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:25
+msgid "Replace blog description text with Ad #4"
+msgstr "Trocar a descrição do blog pelo Anúncio #4"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:39
+msgid "Black navigation style"
+msgstr "Estilo Preto na navegação"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:67
+msgid "Alternate header image"
+msgstr "Alternar imagem do cabeçalho"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:71
+msgid "Hide RSS button"
+msgstr "Esconde o botão RSS"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:75
+msgid "Hide Twitter button"
+msgstr "Esconde o botão Twitter"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:79
+msgid "Set a fluid page width"
+msgstr "Define uma largura de página fluida"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:83
+msgid "Decrease site title text size"
+msgstr "Diminui o tamanho do texto do título"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:87
+msgid "Hide post information bar"
+msgstr "Esconde a barra de informação de artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:91
+msgid "Change footer background color to light gray"
+msgstr "Cor de fundo cinza claro no rodapé"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:96
+msgid "Dark background footer"
+msgstr "Cor de fundo escura no rodapé"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:102
+msgid "Join navigation with main content"
+msgstr "Junta a navegação com o conteúdo principal"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:106
+msgid "Hide navigation"
+msgstr "Esconde a navegação"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:112
+msgid "Remove styling from tables"
+msgstr "Remove estilização das tabelas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:116
+msgid "Text-Justify post and page content"
+msgstr "Justifica o texto no conteúdo dos artigos e páginas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/codehelpers.php:120
+msgid "Fixed custom background image"
+msgstr "Imagem de fundo personalizada fixada"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:45
+#, php-format
+msgid "You can configure Mystique from the <a%s>theme settings</a> page."
+msgstr "Você pode configurar o Mystique na página de<a%s>configurações do tema</a>."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:325
+msgid "You are not authorised to perform this operation."
+msgstr "Você não está autorizado a executar esta operação."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:401
+#: Conhece-te\mystique/lib/settings.php:958
+#: Conhece-te\mystique/lib/settings.php:959
+msgid "Mystique settings"
+msgstr "Configurações do Mystique"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:407
+#, php-format
+msgid "Settings saved. %s"
+msgstr "Configurações gravadas. %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:407
+msgid "View site"
+msgstr "Visualize o site"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:411
+msgid "Please upload a valid image file!"
+msgstr "Por favor, suba um arquivo de imagem válido!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:412
+msgid "The file you uploaded doesn't seem to be a valid JPEG, PNG or GIF image"
+msgstr "O arquivo que você subiu não parece ser uma imagem JPEG, PNG ou GIF válida"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:413
+msgid "The image could not be saved on your server"
+msgstr "A imagem não pôde ser salva no seu servidor"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:418
+#, php-format
+msgid "Error: %s"
+msgstr "Erro: %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:425
+msgid "General"
+msgstr "Gerais"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:426
+msgid "Design/colors"
+msgstr "Design/cores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:427
+msgid "Navigation"
+msgstr "Navegação"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:428
+msgid "Posts"
+msgstr "Artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:429
+msgid "SEO"
+msgstr "OMB"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:431
+msgid "Ads"
+msgstr "Anúncios"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:433
+msgid "Advanced"
+msgstr "Avançadas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:434
+msgid "User CSS"
+msgstr "CSS do Usuário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:444
+msgid "Layout style"
+msgstr "Estilo do layout"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:444
+msgid "Use page templates to apply these only to specific pages"
+msgstr "Use modelos de páginas para aplicá-los apenas em páginas específicas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:480
+msgid "Imageless layout"
+msgstr "Layout sem imagens"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:480
+msgid "No background images; reduces page load downto just a few KB, with the cost of less graphic details"
+msgstr "Sem imagens de fundo; reduz o carregamento da página para apenas alguns KB, ao custo de menos detalhes visuais"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:485
+msgid "Footer content"
+msgstr "Conteúdo do rodapé"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:485
+msgid "You can post HTML code"
+msgstr "Você pode postar código HTML"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:485
+msgid "HTML code is disallowed"
+msgstr "Código HTML não é permitido"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:489
+#, php-format
+msgid "Use the following short codes for convenient adjustments: <br />%s"
+msgstr "Use os seguintes códigos curtos para ajustes convenientes: <br />%s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:497
+msgid "Loading site preview..."
+msgstr "Carregando visualização do site..."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:505
+#: Conhece-te\mystique/lib/settings.php:517
+msgid "Sidebar(s) vs Main Content ratio"
+msgstr "Proporção de Barra(s) Lateral(ais) vs Conteúdo Principal"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:527
+msgid "Preferred font style"
+msgstr "Estilo de fonte preferido"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:527
+msgid "Font priority and their availability"
+msgstr "Prioridade de fontes e suas disponibilidades"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:538
+msgid "Color scheme"
+msgstr "Esquema de cores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:542
+msgid "Not available with <em>imageless</em> setting"
+msgstr "Não disponível na configuração <em>sem imagens</em>"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:569
+msgid "Custom logo image"
+msgstr "Imagem de logotipo personalizada"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:569
+msgid "Show a logo image instead of text; Upload the graphic file from your computer"
+msgstr "Mostra a imagem de um logotipo ao invés de texto; Suba a imagem do seu computador"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:575
+#: Conhece-te\mystique/lib/settings.php:590
+msgid "Remove current image"
+msgstr "Remover a imagem atual"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:578
+#: Conhece-te\mystique/lib/settings.php:593
+#, php-format
+msgid "Directory %s doesn't have write permissions - can't upload!"
+msgstr "O diretório %s não possui permissões de escrita - não foi possível subir a imagem!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:578
+#: Conhece-te\mystique/lib/settings.php:593
+msgid "Check your upload path in Settings/Misc or CHMOD this directory to 755/777.<br />Contact your host if you don't know how"
+msgstr "Verifique a pasta de arquivos enviados em Configurações/Diversas ou CHMOD este diretório para 755/777.<br />Contate sua hospedagem caso não saiba como"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:584
+msgid "Custom background image"
+msgstr "Imagem de fundo personalizada"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:584
+msgid "Upload a new background/header image to replace the default one"
+msgstr "Escolha uma nova imagem de fundo para substituir a padrão"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:599
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:599
+msgid "Leave Black (#000000) to keep the default background"
+msgstr "Deixe em Preto (#000000) para manter a cor de fundo padrão"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:612
+msgid "Top navigation shows"
+msgstr "Mostrar na navegação superior"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:615
+msgid "Pages"
+msgstr "Páginas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:616
+#: Conhece-te\mystique/lib/widgets.php:116
+#: Conhece-te\mystique/lib/widgets.php:292
+msgid "Categories"
+msgstr "Categorias"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:617
+msgid "Links"
+msgstr "Links"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:625
+msgid "from category"
+msgstr "da categoria"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:638
+msgid "No links found"
+msgstr "Nenhum link encontrado"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:647
+msgid "Exclude from navigation"
+msgstr "Excluir da navegação"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:647
+msgid "Check the items you wish to hide from the main menu"
+msgstr "Selecione os itens que você quer esconder no menu principal"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:657
+msgid "(Use the private property to hide other links)"
+msgstr "(Use a opção \"link privado\" para esconder outros links)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:723
+msgid "View page"
+msgstr "Visualize a página"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:746
+msgid "Post previews"
+msgstr "Resumos dos artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:746
+msgid "The way posts are displayed on blog homepage and archive pages"
+msgstr "A maneira como os artigos são visualizados na homepage e no arquivo do blog"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:749
+msgid "Full"
+msgstr "Completos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:750
+msgid "Excerpts"
+msgstr "Passagens"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:751
+msgid "Titles only"
+msgstr "Apenas títulos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:758
+msgid "Post thumbnail size"
+msgstr "Tamanho das miniaturas nos artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:758
+#, php-format
+msgid "Note that this only works for images you upload from now on, older images will be browser-resized. You should use the %s plugin to create missing image sizes"
+msgstr "Note que isto só funciona para imagens que você suba de agora em diante, imagens antigas serão redimensionadas pelo browser. Você deveria usar o plugin %s para criar os tamanhos de imagem que estão faltando."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:762
+msgid "Small: 64 x 64"
+msgstr "Pequeno: 64 x 64"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:763
+msgid "Medium: 100 x 100"
+msgstr "Médio: 100 x 100"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:764
+#, php-format
+msgid "WP's Media setting: %s"
+msgstr "Configurações de Mídia do WP: %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:771
+msgid "Enable \"Share This Post\" feature"
+msgstr "Ativar a função \"Compartilhe Este Artigo\""
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:771
+msgid "Uncheck this if you're using a social bookmaring plugin"
+msgstr "Desmarque se você está usando um plugin de favoritos social"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:776
+msgid "Featured content source"
+msgstr "Fonte do conteúdo em destaque"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:776
+msgid "The last 5 posts from this category will be shown in the featured content area (in random order)"
+msgstr "Os 5 artigos mais recentes desta categoria serão mostrados na área de conteúdo em destaque (em ordem aleatória)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:781
+msgid "- All categories"
+msgstr "- Todas as categorias"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:790
+msgid "Where to display the featured posts?"
+msgstr "Onde exibir os artigos em destaque?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:793
+msgid "On pages that use the Featured Posts template"
+msgstr "Em páginas que usam o modelo Conteúdo em Destaque"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:794
+msgid "On the home page"
+msgstr "Na homepage"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:795
+msgid "On all pages, including home"
+msgstr "Em todas as páginas, incluindo a homepage"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:796
+msgid "On all posts"
+msgstr "Em todos os artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:797
+msgid "On all pages and posts"
+msgstr "Em todas as páginas e artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:803
+msgid "Maximum number of featured posts"
+msgstr "Número máximo de artigos em destaque"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:818
+msgid "Show related posts next to comments"
+msgstr "Mostrar artigos relacionados ao lado dos comentários"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:828
+msgid "Additional site optimization for search engines"
+msgstr "Otimização adicional do site para motores de busca"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:828
+msgid "Uncheck if you are using a SEO plugin!"
+msgstr "Desmarque se você está usando um plugin OMB!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:835
+msgid "What does this do?"
+msgstr "O que isso faz?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:837
+msgid "enables canonical URLs for comments (duplicate content fix)"
+msgstr "ativa URLs canônicas para comentários (corrige conteúdo duplicado)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:838
+msgid "generates unique titles for posts with multiple comment pages (prevents duplicate titles)"
+msgstr "gera títulos únicos para artigos com múltiplas páginas de comentário (previne títulos duplicados)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:839
+#, php-format
+msgid "no keywords are generated because they are <a %s>useless</a>"
+msgstr "não foram geradas palavras-chave porque elas são <a %s>inúteis</a>"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:853
+msgid "Advertisment blocks"
+msgstr "Blocos de propaganda"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:853
+#, php-format
+msgid "Use the %s short code to insert these ads into posts, text widgets or footer"
+msgstr "Use o código curto %s para inserir estes anúncios em artigos, widgets de texto ou no rodapé"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:854
+msgid "Example:"
+msgstr "Exemplo:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:860
+#, php-format
+msgid "Ad code #%s:"
+msgstr "Código do anúncio #%s:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:876
+msgid "Use jQuery"
+msgstr "Usar o jQuery"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:876
+msgid "For testing purposes only. Only uncheck if you know what you're doing!"
+msgstr "Apenas para testes. Somente desmarque se souber o que está fazendo!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:881
+msgid "Enable theme built-in lightbox on all image links"
+msgstr "Ativar o lightbox embutido no tema em todos os links de imagens"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:881
+msgid "Uncheck if you prefer a lightbox plugin"
+msgstr "Desmarque se você prefere um plugin lightbox"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:886
+msgid "Remove Mystique settings from the database after theme switch"
+msgstr "Remover as configurações do Mystique do banco de dados após mudar de tema"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:886
+msgid "Uncheck this if you plan to keep Mystique as your default theme!"
+msgstr "Desmarque esta opção se você planeja manter o Mystique como seu tema padrão!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:898
+msgid "Document head code"
+msgstr "Código do cabeçalho do documento"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:898
+#, php-format
+msgid "PHP code to insert in the %s section of the XHTML document. Useful if you have plugins that require you to add stuff here, adding Analytics code etc."
+msgstr "Código PHP a ser inserido na seção %s do documento XHTML. É útil caso você tenha plugins que pedem para adicionar coisas aqui, para adicionar códigos do Analytics, etc."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:899
+msgid "To output HTML only, close the PHP tag first."
+msgstr "Para que resulte somente HTML, feche o marcador PHP primeiro."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:901
+#: Conhece-te\mystique/lib/settings.php:922
+msgid "Examples and helpers:"
+msgstr "Exemplos e ajudas:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:920
+msgid "Modify anything related to design using CSS code"
+msgstr "Modifique tudo relacionado ao design usando código CSS"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:920
+#, php-format
+msgid "Check %s to see existing theme classes and properties"
+msgstr "Verifique o %s para encontrar classes e propriedades do tema já existentes"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:920
+msgid "Avoid modifying theme files directly; use this option instead to preserve your changes after update"
+msgstr "Evite modificar diretamente os arquivos do tema; ao invés disso, use esta opção para preservar suas mudanças após uma atualização"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:943
+msgid "Save Changes"
+msgstr "Salvar Modificações"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/settings.php:943
+msgid "Reset to Defaults"
+msgstr "Voltar às Configurações Padrão"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:32
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s: Classe de widget não encontrada. Tenha certeza que este widget existe e o nome da classe está correto"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:193
+#, php-format
+msgid "Empty ad slot (#%s)!"
+msgstr "Espaço de anúncio vazio (#%s)!"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:200
+msgid "Top"
+msgstr "Topo"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:212
+#, php-format
+msgid "%1$s theme by %2$s | Powered by %3$s"
+msgstr "Tema %1$s por %2$s | Movido a %3$s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:219
+msgid "Copyright &copy;"
+msgstr "Direitos autorais &copy;"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:235
+msgid "Site Admin"
+msgstr "Administrador do Site"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/shortcodes.php:236
+msgid "Log in"
+msgstr "Log in"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:52
+#, php-format
+msgid "%s followers"
+msgstr "%s seguidores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:73
+msgid "Error while retrieving tweets (Twitter down?)"
+msgstr "Erro ao carregar tweets (O Twitter caiu?)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:86
+msgid "Displays links to different sections grouped in tabs"
+msgstr "Mostra links para diferentes seções agrupados em abas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:88
+msgid "Mystique | Sidebar tabs"
+msgstr "Mystique | Abas da barra lateral"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:112
+#: Conhece-te\mystique/lib/widgets.php:308
+msgid "Recent comments"
+msgstr "Comentários recentes"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:113
+msgid "Popular posts"
+msgstr "Artigos populares"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:114
+#: Conhece-te\mystique/lib/widgets.php:300
+msgid "Archives"
+msgstr "Arquivos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:115
+msgid "Tags"
+msgstr "Marcadores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:209
+msgid "Didn't find any posts popular enough :("
+msgstr "Não encontrei artigos populares :("
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:252
+msgid "Sidebar tabs"
+msgstr "Abas da barra lateral"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:253
+#: Conhece-te\mystique/lib/widgets.php:396
+#: Conhece-te\mystique/lib/widgets.php:495
+msgid "jQuery is disabled and this widget needs it"
+msgstr "O jQuery está desabilitado e este widget precisa dele"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:288
+msgid "Tabs to show"
+msgstr "Mostrar abas"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:296
+msgid "Tags "
+msgstr "Marcadores"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:304
+msgid "Popular posts (most commented)"
+msgstr "Artigos populares (mais comentados)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:314
+msgid "Sort categories"
+msgstr "Organizar categorias"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:316
+msgid "by name (alphabetically)"
+msgstr "por nome (alfabético)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:317
+msgid "by category ID"
+msgstr "por ID de categoria"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:318
+msgid "by category slug"
+msgstr "por slug de categoria"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:319
+msgid "by post count"
+msgstr "por contagem de artigos"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:324
+msgid "Show post count (categories and archives)"
+msgstr "Mostrar contagem de artigos (categorias e arquivos)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:330
+msgid "How many popular posts to show?"
+msgstr "Mostrar quantos artigos populares?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:337
+msgid "How many recent comments to show?"
+msgstr "Mostrar quantos comentários recentes?"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:353
+msgid "Shows your latest Twitter updates"
+msgstr "Mostra seus updates recentes no Twitter"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:354
+msgid "Mystique | Twitter"
+msgstr "Mystique | Twitter"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:393
+msgid "Loading tweets..."
+msgstr "Carregando tweets..."
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:423
+#: Conhece-te\mystique/lib/widgets.php:529
+msgid "Title:"
+msgstr "Título:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:428
+msgid "Twitter user name:"
+msgstr "Nome do usuário twitter:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:433
+msgid "Number of tweets to show:"
+msgstr "Mostrar quantos tweets:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:447
+msgid "Displays Flickr galleries (needs API key)"
+msgstr "Mostra galerias do Flickr (necessita da Chave API)"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:449
+msgid "Mystique | Flickr Gallery"
+msgstr "Mystique | Galeria Flickr"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:520
+msgid "Flickr Gallery"
+msgstr "Galeria Flickr"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:534
+msgid "API key:"
+msgstr "Chave API:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:539
+msgid "Number of photos to show:"
+msgstr "Mostrar quantas fotos:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:544
+msgid "Gallery source:"
+msgstr "Fonte da Galeria:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:546
+msgid "Photoset"
+msgstr "Álbum"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:547
+msgid "User photostream"
+msgstr "Galeria do usuário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:552
+msgid "Photoset ID:"
+msgstr "ID do Álbum:"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:557
+#, php-format
+msgid "User ID (use %s to find it):"
+msgstr "ID do usuário (use %s para encontrá-lo):"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:572
+msgid "Login form"
+msgstr "Formulário de registro"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:573
+msgid "Mystique | Login"
+msgstr "Mystique | Registro"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:583
+#, php-format
+msgid "Logged in: %s"
+msgstr "Registrado como: %s"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:588
+msgid "Dashboard"
+msgstr "Painel"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:590
+msgid "Write"
+msgstr "Escrever"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:591
+msgid "Comments"
+msgstr "Comentários"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:593
+msgid "Log out"
+msgstr "Sair"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:597
+msgid "User Login"
+msgstr "Registro do usuário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:601
+msgid "User"
+msgstr "Usuário"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:602
+msgid "Password"
+msgstr "Senha"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:603
+msgid "Login"
+msgstr "Registrar-se"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:604
+msgid "Remember me"
+msgstr "Lembre-me"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:609
+msgid "Register"
+msgstr "Cadastre-se"
+
+#: E:\Meus
+#: Documentos\Atilio\Site Conhece-te\mystique/lib/widgets.php:610
+msgid "Lost your password?"
+msgstr "Perdeu a senha?"
+
+#~ msgid "Posted in %s"
+#~ msgstr "Escrito em %s"
+#~ msgid "Display featured posts on blog/home page"
+#~ msgstr "Mostrar artigos em destaque no blog/home page"
+#~ msgid ""
+#~ "Use the \"Page with Featured Content\" template if you want it on "
+#~ "specific pages"
+#~ msgstr ""
+#~ "Use o modelo \"Página com Conteúdo em Destaque\" caso o queira em páginas "
+#~ "específicas"
+#~ msgid "%s comments"
+#~ msgstr "%s comentários"
+#~ msgid "%s (%s topics)"
+#~ msgstr "%s (%s tópicos)"
+#~ msgid "Read the rest of this entry &raquo;"
+#~ msgstr "Leia o restante deste artigo &raquo;"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "Leia o restante desta página &raquo;"
+#~ msgid ""
+#~ "Type page, category or link IDs (depending on your selection above), "
+#~ "separated by commas"
+#~ msgstr ""
+#~ "Digite o ID das páginas, categorias ou links (dependendo da sua seleção "
+#~ "acima), separados por vírgulas"
+#~ msgid "Google Analytics sample code"
+#~ msgstr "Amostra de código do Google Analytics"
+#~ msgid "Hide home button"
+#~ msgstr "Esconde o botão Início"
+#~ msgid "Meta"
+#~ msgstr "Meta"
+#~ msgid "50/50 columns (on 2 column layout)"
+#~ msgstr "Colunas 50/50 (no layout com 2 colunas)"
+#~ msgid "Share on Twitter!"
+#~ msgstr "Compartilhe no Twitter!"
+#~ msgid ""
+#~ "Note that tweets older than 14 days are not displayed. This is a search "
+#~ "limitation from Twitter"
+#~ msgstr ""
+#~ "Note que tweets anteriores a 14 dias não aparecerão. Esta é uma limitação "
+#~ "de pesquisa do Twitter"
+

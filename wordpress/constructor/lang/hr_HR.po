@@ -1,0 +1,1053 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-26 09:38+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anton Shevchuk <Anton.Shevchuk@gmail.com>\n"
+"Language-Team: Anton Shevchuk <AntonShevchuk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: W:/www/wordpress/wp-content/themes/constructor\n"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:24
+msgid "Pages"
+msgstr "Stranice"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:20
+msgid "Categories"
+msgstr "Kategorije"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:22
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:32
+msgid "Tags"
+msgstr "Tagovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:27
+msgid "Meta"
+msgstr "Meta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:20
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Idi na %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/slideshow.php:26
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:52
+msgid "Read the rest of this entry &raquo;"
+msgstr "   Više..."
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:86
+msgid "Edit"
+msgstr "Uredi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "No Comments &#187;"
+msgstr "Nema komentara &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "1 Comment &#187;"
+msgstr "1 komentar &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "% Comments &#187;"
+msgstr "% komentara &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "Comments Closed"
+msgstr "Komentiranje nije moguće"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:84
+msgid "Back to Parent Page"
+msgstr "Natrag na početnu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Stariji postovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:33
+msgid "Newer Entries &raquo;"
+msgstr "Noviji postovi &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ovaj post je zaštićen lozinkom. Unesi lozinku za pregled komentara."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "No Responses"
+msgstr "Nema odgovora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "One Response"
+msgstr "Jedan odgovor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "% Responses"
+msgstr "% odgovora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "na &#8220;%s&#8221;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:39
+msgid "Comments are closed."
+msgstr "Komentiranje nije moguće."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "Unesi komentar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Unesi komentar za %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Morate biti <a href=\"%s\">ulogirani</a> za unos komentara."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Ulogiran kao <a href=\"%1$s\">%2$s</a>."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out of this account"
+msgstr "Odlogiraj se"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out &raquo;"
+msgstr "Odlogiraj &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+msgid "Name"
+msgstr "Ime"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "(required)"
+msgstr "(obvezno)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "Mail (will not be published)"
+msgstr "Mail (neće biti objavljen)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:74
+msgid "Website"
+msgstr "Website"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Možete koristiti sljedeće tagove: <code>%s</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:82
+msgid "Submit Comment"
+msgstr "Komentiraj"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:13
+msgid "Error 404 - Not Found"
+msgstr "Greška 404 - Sadržaj nije pronađen."
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Nažalost, nema rezultata potrage za zadani pojam."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:246
+msgid "Home"
+msgstr "Početna"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:278
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:372
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:29
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s powered by %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:373
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:30
+msgid "Constructor Theme"
+msgstr "Constructor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:374
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s i %2$s."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:374
+msgid "Entries (RSS)"
+msgstr "Postovi (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:374
+msgid "Comments (RSS)"
+msgstr "Komentari (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:378
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d upita. %s sekundi."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:405
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:416
+msgid "No Image"
+msgstr "Nema slike."
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "Author RSS Feed"
+msgstr "RSS Feed autora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:31
+msgid "Full Name"
+msgstr "Ime i prezime"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:35
+msgid "Nickname"
+msgstr "Nick"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:41
+msgid "Visit author website"
+msgstr "Posjeti site autora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:55
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:65
+msgid "About Me"
+msgstr "O meni"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:70
+#, php-format
+msgid "Last posts by %s"
+msgstr "Posljednji postovi %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:81
+msgid "No posts by this author."
+msgstr "Nema postova ovog autora."
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-sitemap.php:32
+msgid "Archives"
+msgstr "Arhiva"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:23
+msgid "Global categories"
+msgstr "Globalne kategorije"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:24
+msgid "Many In One"
+msgstr "Više u jednom"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:63
+#, php-format
+msgid "System can't create \"%s\" directory"
+msgstr "sistem ne može kreirati  \"%s\" direktorij."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:78
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "File \"%s\" nije slikovni format (jpeg, png, gif)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:166
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:204
+msgid "Customize Theme"
+msgstr "Uredi temu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:166
+msgid "Customize"
+msgstr "Prilagodi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:205
+msgid "Options saved."
+msgstr "Promjene sačuvane."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:209
+msgid "Errors"
+msgstr "Greške"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:236
+msgid "Save Changes"
+msgstr "Spremi promjene"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:1
+msgid "Fonts"
+msgstr "Fontovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:18
+msgid "Header Font"
+msgstr "Font headera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:40
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "The quick brown fox jumps over the lazy dog"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:34
+msgid "Body Font"
+msgstr "Font teksta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:1
+msgid "Colors"
+msgstr "Boje"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:62
+msgid "Opacity"
+msgstr "Prozirnost"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:65
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:86
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:87
+msgid "None"
+msgstr "Nimalo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:67
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:68
+msgid "Color"
+msgstr "Boja"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:71
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:72
+msgid "Dark Low"
+msgstr "Zatamnjeno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:74
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:75
+msgid "Dark"
+msgstr "Tamno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:78
+msgid "Dark High"
+msgstr "Vrlo tamno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:81
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:82
+msgid "Light Low"
+msgstr "Posvijetljeno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:84
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:85
+msgid "Light"
+msgstr "Svijetlo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:87
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:88
+msgid "Light High"
+msgstr "Vrlo svijetlo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:93
+msgid "Shadow"
+msgstr "sjena"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:96
+msgid "Only for Safari and Chrome"
+msgstr "Samo za Safari i Chrome"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:100
+msgid "Elements Colors"
+msgstr "Boje elemenata"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:103
+msgid "background"
+msgstr "pozadina"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:106
+msgid "background alternative"
+msgstr "alternativna pozadina"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:109
+msgid "opacity style color"
+msgstr "boja prozirnosti"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:112
+msgid "text"
+msgstr "tekst"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:115
+msgid "text alternative"
+msgstr "alternativni tekst"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:118
+msgid "border"
+msgstr "okvir"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:121
+msgid "border alternative"
+msgstr "okvir alternativni"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:124
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:127
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:130
+msgid "tags"
+msgstr "tagovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:1
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:74
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:47
+msgid "Width"
+msgstr "širina"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:50
+msgid "Container Width"
+msgstr "Širina containera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:59
+msgid "Sidebar Width"
+msgstr "Širina sidebara"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:68
+msgid "Extra Bar Width"
+msgstr "Širina extra bara"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:76
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:25
+msgid "Left"
+msgstr "Lijevo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:79
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:80
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:27
+msgid "Right"
+msgstr "Desno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:83
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:84
+msgid "Two"
+msgstr "Dva"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:90
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:91
+msgid "Two Right"
+msgstr "Dva udesno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:94
+msgid "Two Left"
+msgstr "Dva ulijevo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:1
+msgid "CSS"
+msgstr "CSS"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:5
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Pozor!</b></font>: File \"%s\" nije moguće mijenjati."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:2
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:88
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:28
+msgid "Enable slideshow"
+msgstr "Uključi slideshow"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:34
+msgid "By default use images from posts with custom field <code>thumb-slideshow</code>"
+msgstr "Po defaultu koristi slike iz postova označene custom fieldom <code>thumb-slideshow</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:38
+msgid "Options"
+msgstr "Opcije"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:41
+msgid "Show on page"
+msgstr "Prikaži na stranici"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:44
+msgid "Show on single post"
+msgstr "Prikaži na pojedinačnom postu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:50
+msgid "Height"
+msgstr "Visina"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:59
+msgid "Advanced options"
+msgstr "Napredne opcije"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:60
+msgid "only for default slideshow"
+msgstr "samo za defaultni slideshow"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:64
+msgid "Number of slides"
+msgstr "Broj slideova"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:67
+msgid "Key of custom field"
+msgstr "Key custom fielda"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:71
+msgid "Position"
+msgstr "Pozicija"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:73
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:74
+msgid "In Content"
+msgstr "U sadržaju"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:78
+msgid "Over Content"
+msgstr "Iznad sadržaja"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:89
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "koristi <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:92
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:12
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:13
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:26
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:27
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:40
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:41
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:54
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:55
+msgid "Default"
+msgstr "Defaultno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:107
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Možete koristiti <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin kako bi sastavili customizirani slideshow."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:1
+msgid "Layout"
+msgstr "Layout (raspored)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:10
+msgid "Homepage"
+msgstr "Početna stranica"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:15
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:16
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:57
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:58
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:109
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:150
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:189
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:228
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:266
+msgid "Tile"
+msgstr "Polje"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:46
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:47
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:60
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:61
+msgid "List"
+msgstr "Lista"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:24
+msgid "Archive"
+msgstr "Arhiva"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:38
+msgid "Search"
+msgstr "Traži"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:52
+msgid "Index"
+msgstr "Index"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:1
+msgid "Export"
+msgstr "Izvezi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:2
+msgid "Export Current Theme"
+msgstr "Izvezi trenutnu temu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:3
+msgid "Use this is options for export your changes"
+msgstr "Koristi ove opcije za exportiranje svojih promjena"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:3
+msgid "save changes before export"
+msgstr "sačuvaj promjene prije eksportiranja"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:6
+msgid "click here and save file"
+msgstr "klikni ovdje i spremi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:12
+#, php-format
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "Za uvoz teme - koristeći FTP kreirajte novi folder u folderu<code>%s/themes</code> i uploadaj <code>config.php</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:17
+msgid "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+msgstr "Kreiraj <code>style.css</code> sa sljedećim tekstom (promijeni tekst napisan velikim slovima)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:31
+msgid "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't requried)"
+msgstr "Kreiraj <code>screenshot.png</code> sa screeenshotom teme i rezolucije 300x225 i uplodaj (nije obvezno)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:1
+msgid "Content"
+msgstr "sadržaj"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:6
+msgid "Posts"
+msgstr "Postovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:9
+msgid "Show author link"
+msgstr "Prikaži autorov link"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:13
+msgid "Thumbnails"
+msgstr "Thumbnailovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:16
+msgid "Autogenerate thumbnails"
+msgstr "Automatski generiraj thumbnailove"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:20
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Pozor!</b></font>: Direktorij \"%s\" nije moguće mijenjati."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:28
+msgid "\"List\" layout options"
+msgstr "\"List\" opcije rasporeda (layouta)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:31
+msgid "Strip HTML tags from announce (leave only <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>)"
+msgstr "Skini HTML tagove sa announcea (ostavi samo <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:37
+msgid "Show \"No Image\" picture"
+msgstr "Prikaži  \"No Image\" sliku"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:42
+msgid "Thumbnail position"
+msgstr "Pozicija thumbnaila"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:1
+msgid "Footer"
+msgstr "Footer"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "Tekst footera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:1
+msgid "Images"
+msgstr "Slike"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:24
+msgid "Body Image"
+msgstr "Slika središnjice"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:74
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:120
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:159
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:198
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:237
+msgid "preview"
+msgstr "preview"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:36
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:81
+msgid "Fixed position"
+msgstr "Fiksna pozicija"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:41
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:86
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:126
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:165
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:204
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:243
+msgid "Image Position"
+msgstr "Pozicija slike"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:42
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:87
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:127
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:166
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:205
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:244
+msgid "Top Left"
+msgstr "gore lijevo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:88
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:128
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:167
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:206
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:245
+msgid "Top Center"
+msgstr "gore centrirano"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:89
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:129
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:168
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:207
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:246
+msgid "Top Right"
+msgstr "gore desno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:48
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:133
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:172
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:211
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:250
+msgid "Center Left"
+msgstr "centrirano lijevo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:94
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:134
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:173
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:212
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:251
+msgid "Center Center"
+msgstr "centrirano u centru"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:50
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:95
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:135
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:174
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:213
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:252
+msgid "Center Right"
+msgstr "centrirano desno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:54
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:99
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:139
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:178
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:217
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:256
+msgid "Bottom Left"
+msgstr "dolje lijevo"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:55
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:100
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:140
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:179
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:218
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:257
+msgid "Bottom Center"
+msgstr "dolje centrirano"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:56
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:101
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:141
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:180
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:219
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:258
+msgid "Bottom Right"
+msgstr "dolje desno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:59
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:104
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:145
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:184
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:223
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:261
+msgid "Image Repeat"
+msgstr "ponavljanje slike"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:60
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:105
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:146
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:185
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:224
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:262
+msgid "No Repeat"
+msgstr "nema ponavljanja"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:61
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:106
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:147
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:186
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:225
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:263
+msgid "Repeat Horizontal"
+msgstr "ponavljaj horizontalno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:63
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:108
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:149
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:188
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:227
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:265
+msgid "Repeat Vertical"
+msgstr "ponavljaj vertikalno"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:69
+msgid "Background Image"
+msgstr "Slika pozadine"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:115
+msgid "Content Image"
+msgstr "slika sadržaja"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:154
+msgid "Sidebar Image"
+msgstr "slika sidebara"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:193
+msgid "Extrabar Image"
+msgstr "slika extrabara"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:232
+msgid "Footer Image"
+msgstr "slika footera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:1
+msgid "Header"
+msgstr "Header"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:23
+msgid "Title position"
+msgstr "Pozicija naslova"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:26
+msgid "Center"
+msgstr "Centar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:32
+msgid "Title colors"
+msgstr "boja naslova"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:35
+msgid "title"
+msgstr "naslov"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:38
+msgid "description"
+msgstr "opis"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:44
+msgid "Header height"
+msgstr "visina headera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:54
+msgid "Header menu"
+msgstr "Header menu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:55
+msgid "menu can configured with <a href=\"widgets.php\">widgets</a>, use \"header\" sidebar"
+msgstr "menu možete prilagoditi sa <a href=\"widgets.php\">widgets</a>, koristi \"header\" sidebar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:61
+msgid "Show top menu"
+msgstr "Prikaži gornji izbornik"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:66
+msgid "Disable pages"
+msgstr "Onemogući prikaz stranica"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:67
+msgid "Show first-level pages"
+msgstr "Prikaži stranice prve razine"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:68
+msgid "Show pages in drop-down menu"
+msgstr "Prikaži stranice u drop down izborniku"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:69
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Prikaži stranice u drop down izborniku ( 2 razine)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:74
+msgid "Group categories in one menu item"
+msgstr "Grupiraj kategorije u jedan item u izborniku"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:77
+msgid "Disable categories"
+msgstr "Onemogući kategorije"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:78
+msgid "Show first-level categories"
+msgstr "Prikaži kategorije prve razine"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:79
+msgid "Show categories in drop-down menu"
+msgstr "Prikaži kategorije u padajućem izborniku"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:80
+msgid "Show categories in drop-down menu (2-levels)"
+msgstr "Prikaži kategorije u padajućem izborniku ( 2 razine)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:83
+msgid "Links"
+msgstr "Linkovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:86
+msgid "Show link to home page"
+msgstr "Prikaži link na naslovnicu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:89
+msgid "Show link to RSS feed"
+msgstr "Prikaži link na RSS feed"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:91
+msgid "Tools"
+msgstr "Alati"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:94
+msgid "Show search form"
+msgstr "Prikaži tražilicu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:1
+msgid "Help"
+msgstr "Pomoć"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:6
+msgid "Constructor Wordpress Theme"
+msgstr "Constructor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:8
+msgid "Project Homepage"
+msgstr "Web projekta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:9
+msgid "Author Homepage"
+msgstr "Web autora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:12
+msgid "Tile layout"
+msgstr "Tile layout"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:14
+msgid "For \"tile\" layout using images from custom fields with key <code>thumb</code> (or use autogenerate option on content tab)"
+msgstr "Za \"tile\" layout koristi sllike iz custom fieldsa sa ključem <code>thumb</code> (ili koristi opciju autogeneriranja na content tabu)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:17
+msgid "List layout"
+msgstr "List layout"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:19
+msgid "For \"list\" layout using images from custom fields with key <code>thumb-list</code> (or use autogenerate option on content tab)"
+msgstr "Za \"list\" layout koristi sllike iz custom fieldsa sa ključem <code>thumb-list</code> (ili koristi opciju autogeneriranja na content tabu)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:24
+msgid "For slideshow using images from custom fields with key <code>thumb-slideshow</code> (by default, your can change it on slideshow tab)"
+msgstr "Za slideshow koristi slike iz custom fieldsa sa ključem <code>thumb-slideshow</code> ( po defaultu, možete ovo mijenjati na slideshow tabu)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:28
+msgid "Related Links"
+msgstr "Povezani linkovi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:38
+msgid "Donate"
+msgstr "Doniraj"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:47
+msgid "Author works"
+msgstr "Djela autora"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:1
+msgid "Themes"
+msgstr "Teme"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:42
+msgid "File \"style.css\" is not exists"
+msgstr "File \"style.css\" ne postoji"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:43
+msgid "Anonymous"
+msgstr "anonimni"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:55
+msgid "version"
+msgstr "verzija"
+

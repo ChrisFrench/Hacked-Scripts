@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-12 18:04+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Manfred Burkardt <manfred@mabuweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: W:/www/wordpress/wp-content/themes/constructor\n"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:24
+msgid "Pages"
+msgstr "Pàgines"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:20
+msgid "Categories"
+msgstr "Categories"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:22
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:32
+msgid "Tags"
+msgstr "Tags"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:27
+msgid "Meta"
+msgstr "Meta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:20
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Enllaç permanent a %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/slideshow.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:52
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:25
+msgid "Read the rest of this entry &raquo;"
+msgstr "Llegiu la resta &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:19
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:86
+msgid "Edit"
+msgstr "Editar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "No Comments &#187;"
+msgstr "Cap comentari &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "1 Comment &#187;"
+msgstr "1 Commentari &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "% Comments &#187;"
+msgstr "% Commentaris &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "Comments Closed"
+msgstr "Comentaris tancats"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:84
+msgid "Back to Parent Page"
+msgstr "Tornar a pàgina mare"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:37
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrades més velles"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:38
+msgid "Newer Entries &raquo;"
+msgstr "Entrades més noves &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "L'apunt està protegit amb contrasenya"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "No Responses"
+msgstr "Cap resposta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "One Response"
+msgstr "Una resposta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "% Responses"
+msgstr "% Respostes"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "a &#8220;%s&#8221;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:39
+msgid "Comments are closed."
+msgstr "Comentaris estan tancats."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "Diexa una resposta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Deixa una resposta per a %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Heu de <a href=\"%s\">obrir una sessió</a> per enviar un comentari."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Sessió oberta com <a href=\"%1$s\">%2$s</a>."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out of this account"
+msgstr "Tanca la sessió."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out &raquo;"
+msgstr "Tancar sessió &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+msgid "Name"
+msgstr "Nom"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "(required)"
+msgstr "(obligatori)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "Mail (will not be published)"
+msgstr "Correu (no serà publicat)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:74
+msgid "Website"
+msgstr "Web"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Podeu utilitzar aquests tags: <code>%s</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:82
+msgid "Submit Comment"
+msgstr "Enviar comentari"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:13
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No trobat"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Disculpeu, esteu buscant alguna cosa que no és aquí"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:207
+msgid "Home"
+msgstr "Inici"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:234
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:298
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:24
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s is proudly powered by %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:299
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:25
+msgid "Constructor Theme"
+msgstr "Constructor Theme"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:300
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s and %2$s."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:300
+msgid "Entries (RSS)"
+msgstr "Entrades (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:300
+msgid "Comments (RSS)"
+msgstr "Commentaris (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:304
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d consultes. %s segons."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:318
+msgid "No Image"
+msgstr "Cap imatge"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "Author RSS Feed"
+msgstr "Autor RSS Feed"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:31
+msgid "Full Name"
+msgstr "Nom complert"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:35
+msgid "Nickname"
+msgstr "Nickname"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:41
+msgid "Visit author website"
+msgstr "Visiteu el web de l'autor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:55
+msgid "Yahoo IM"
+msgstr "IM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:65
+msgid "About Me"
+msgstr "Sobre mi"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:70
+#, php-format
+msgid "Last posts by %s"
+msgstr "Ultims apunts de %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:81
+msgid "No posts by this author."
+msgstr "Cap apunt d'aquest autor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-sitemap.php:32
+msgid "Archives"
+msgstr "Arxius"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:23
+msgid "Global categories"
+msgstr "Categories globals"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:24
+msgid "Many In One"
+msgstr "Molts és un"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:63
+#, php-format
+msgid "System can't create \"%s\" directory"
+msgstr "Sistema no pot crear el driectori \"%s\""
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:78
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "El fitxer \"%s\" no és una imatge (jpeg, png, gif)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:139
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:177
+msgid "Customize Theme"
+msgstr "Cutomitzar Theme"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:139
+msgid "Customize"
+msgstr "Customitzar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:178
+msgid "Options saved."
+msgstr "Opcions guardats"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:182
+msgid "Errors"
+msgstr "Errors"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:209
+msgid "Save Changes"
+msgstr "Guardar canvis"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:1
+msgid "Fonts"
+msgstr "Fonts"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:6
+msgid "Header Font"
+msgstr "Header Font"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:13
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:25
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "The quick brown fox jumps over the lazy dog"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:18
+msgid "Body Font"
+msgstr "Body Font"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:1
+msgid "Colors"
+msgstr "Colors"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:62
+msgid "Opacity"
+msgstr "Opacitat"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:65
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:18
+msgid "None"
+msgstr "Cap"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:67
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:68
+msgid "Color"
+msgstr "Color"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:71
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:72
+msgid "Dark Low"
+msgstr "Fosc Baix"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:74
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:75
+msgid "Dark"
+msgstr "Fosc"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:78
+msgid "Dark High"
+msgstr "Fosc Alt"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:81
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:82
+msgid "Light Low"
+msgstr "Clar Baix"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:84
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:85
+msgid "Light"
+msgstr "Clar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:87
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:88
+msgid "Light High"
+msgstr "Clar Alt"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:93
+msgid "Shadow"
+msgstr "ombra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:96
+msgid "Only for Safari and Chrome"
+msgstr "Només per Safari i Chrome"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:100
+msgid "Elements Colors"
+msgstr "Colors d'elements"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:103
+msgid "background"
+msgstr "fons"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:106
+msgid "background alternative"
+msgstr "fons alternatiu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:109
+msgid "opacity style color"
+msgstr "opacitat estil color"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:112
+msgid "text"
+msgstr "text"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:115
+msgid "text alternative"
+msgstr "text alternatiu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:118
+msgid "border"
+msgstr "marc"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:121
+msgid "border alternative"
+msgstr "marc alternatiu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:124
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:127
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:130
+msgid "tags"
+msgstr "tags"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:1
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:5
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:7
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:8
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:7
+msgid "Left"
+msgstr "Esquerra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:10
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:11
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:9
+msgid "Right"
+msgstr "Dreta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:14
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:15
+msgid "Two"
+msgstr "Dos"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:22
+msgid "Two Right"
+msgstr "Dos Dreta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:25
+msgid "Two Left"
+msgstr "Dos Esquerra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:1
+msgid "CSS"
+msgstr "CSS"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:5
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Warning!</b></font>: Fitxer \"%s\" no es pot escriure."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:2
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:67
+msgid "Slideshow"
+msgstr "Passe diapositives"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:26
+msgid "Enable slideshow"
+msgstr "Activar passe diapositives"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:28
+msgid "by default use images from posts on current page"
+msgstr "per defecte utilitza imatges d'apunts en la pàgina actual"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:61
+msgid "Options"
+msgstr "Opcions"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:35
+msgid "Show on page"
+msgstr "Mostrar en la pàgina"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:38
+msgid "Show on single post"
+msgstr "Mostrar en un sol apunt"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:44
+msgid "In Content"
+msgstr "En contingut"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:47
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:48
+msgid "Over Content"
+msgstr "Sobre el contingut"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:55
+msgid "Height"
+msgstr "Alçada"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:67
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "utilitzeu <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:69
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:70
+msgid "Disable"
+msgstr "Desactivar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:84
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Podeu utilitzar <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin per crear un passe de diapositives"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:1
+msgid "Layout"
+msgstr "Layout"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:64
+msgid "Header Height"
+msgstr "Alçada capçalera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:73
+msgid "Container Width"
+msgstr "Amplada Contenidor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:82
+msgid "Sidebar Width"
+msgstr "Amplada barra lateral"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:91
+msgid "Extra Bar Width"
+msgstr "Amplada barra extra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:98
+msgid "Homepage"
+msgstr "Pàgina d'inici"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:100
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:101
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:114
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:115
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:128
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:129
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:142
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:143
+msgid "Default"
+msgstr "Predeterminat"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:103
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:104
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:117
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:118
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:131
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:132
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:145
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:146
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:50
+msgid "Tile"
+msgstr "Rajola"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:106
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:107
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:120
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:121
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:134
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:135
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:148
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:149
+msgid "List"
+msgstr "Llista"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:112
+msgid "Archive"
+msgstr "Arxiu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:126
+msgid "Search"
+msgstr "Cerca"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:140
+msgid "Index"
+msgstr "Index"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:1
+msgid "Export"
+msgstr "Exportar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:2
+msgid "Export Current Theme"
+msgstr "Exportar theme actual"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:3
+msgid "Use this is options for export your changes"
+msgstr "Utilitzeu aquesta opció per exportar els canvis"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:3
+msgid "save changes before export"
+msgstr "guardar canvis avans d'exportar"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:6
+msgid "click here and save file"
+msgstr "pitgeu aqui i guardeu el fitxer"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:12
+#, php-format
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:17
+msgid "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+msgstr "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:31
+msgid "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't requried)"
+msgstr "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't requried)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:1
+msgid "Content"
+msgstr "Contingut"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:4
+msgid "Posts"
+msgstr "Apunts"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:7
+msgid "Show author link"
+msgstr "Mostrar enllaç autor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:1
+msgid "Footer"
+msgstr "Peu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "Text peu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:1
+msgid "Images"
+msgstr "Imatges"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:14
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Warning!</b></font>: Directori \"%s\" no té dret d'esctitura."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:18
+msgid "Body Image"
+msgstr "Imatge cos"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:81
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:119
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:129
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:160
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:191
+msgid "preview"
+msgstr "vista previa"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:88
+msgid "Fixed position"
+msgstr "Posició Fixe"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:35
+msgid "Image Repeat"
+msgstr "Repetició imatge"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:36
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:37
+msgid "No Repeat"
+msgstr "Sense repetició"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:40
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:41
+msgid "Repeat Horizontal"
+msgstr "Repetició horitzontal"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:45
+msgid "Repeat Vertical"
+msgstr "Repetició vertical"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:56
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:135
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:166
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:197
+msgid "Image Position"
+msgstr "Posició imatge"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:57
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:94
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:136
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:167
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:198
+msgid "Top Left"
+msgstr "Superior esquerra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:58
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:95
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:137
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:168
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:199
+msgid "Top Center"
+msgstr "Superior Centre"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:59
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:96
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:138
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:169
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:200
+msgid "Top Right"
+msgstr "Superior Dreta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:63
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:100
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:142
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:173
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:204
+msgid "Center Left"
+msgstr "Centre Esquerra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:101
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:143
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:174
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:205
+msgid "Center Center"
+msgstr "Centre Centre"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:65
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:102
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:144
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:175
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:206
+msgid "Center Right"
+msgstr "Centre Dreta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:69
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:106
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:148
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:179
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:210
+msgid "Bottom Left"
+msgstr "Inferior Esquerra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:70
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:107
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:149
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:180
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:211
+msgid "Bottom Center"
+msgstr "Inferior Centre"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:71
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:108
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:150
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:181
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:212
+msgid "Bottom Right"
+msgstr "Inferior Dreta"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:76
+msgid "Background Image"
+msgstr "Imatge de fons"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:114
+msgid "Content Image"
+msgstr "Imatge contingut"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:114
+msgid "repeat by Y and w/out opacity"
+msgstr "repeat by Y and w/out opacity"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:124
+msgid "Sidebar Image"
+msgstr "Imatge barra lateral"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:155
+msgid "Extrabar Image"
+msgstr "Imatge barra extra"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:186
+msgid "Footer Image"
+msgstr "Imatge Peu"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:1
+msgid "Header"
+msgstr "Capçalera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:5
+msgid "Title position"
+msgstr "Posició títol"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:8
+msgid "Center"
+msgstr "Centre"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:14
+msgid "Title colors"
+msgstr "Colors títol"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:17
+msgid "title"
+msgstr "títol"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:20
+msgid "description"
+msgstr "descripció"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:25
+msgid "Header menu"
+msgstr "Menú capçalera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:28
+msgid "Show top menu"
+msgstr "Mostrar menú capçalera"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:32
+msgid "Disable pages"
+msgstr "Desactivar pàgines"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:33
+msgid "Show first-level pages"
+msgstr "Mostrar pàgines de primer nivell"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:34
+msgid "Show pages in drop-down menu"
+msgstr "Mostrar pàgines en menú drop-down"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:35
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Mostrar pàgines en menú drop-down (2-nivells)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:40
+msgid "Disable categories"
+msgstr "Desactivar categories"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:41
+msgid "Show first-level categories"
+msgstr "Mostrar categories de primer nivell"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:42
+msgid "Show categories in drop-down menu"
+msgstr "Mostrar categories en menú drop-down"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:43
+msgid "Show categories in drop-down menu (2-levels)"
+msgstr "Mostrar categories en menú drop-down (2-nivells)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:46
+msgid "Group categories in one menu item"
+msgstr "Agrupar categories en una entrada de menú"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:50
+msgid "Show link to home page"
+msgstr "Mostrar enllaç a pàgina d'inici"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:53
+msgid "Show link to RSS feed"
+msgstr "Mostrar enllaç a pàgina d'inici"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:56
+msgid "Show search form"
+msgstr "Mostrar formulari de cerca"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:1
+msgid "Help"
+msgstr "Ajuda"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:4
+msgid "Constructor Wordpress Theme"
+msgstr "Constructor Wordpress Theme"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:6
+msgid "Project Homepage"
+msgstr "Pàgina d'inici projecte"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:7
+msgid "Author Homepage"
+msgstr "Pàgina d'inici Autor"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:10
+msgid "Related Links"
+msgstr "Enllaços relacionats"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:1
+msgid "Themes"
+msgstr "Temes"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:42
+msgid "File \"style.css\" is not exists"
+msgstr "Fitxer \"style.css\" no existeix"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:43
+msgid "Anonymous"
+msgstr "Anònim"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:55
+msgid "version"
+msgstr "versió"
+

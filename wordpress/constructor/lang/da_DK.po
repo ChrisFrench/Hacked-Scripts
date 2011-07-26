@@ -1,0 +1,832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor 0.5.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-08 12:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\themes\\translated\\constructor\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\themes\\translated\\constructor\n"
+
+#: d:\wordpress\themes\translated\constructor/404.php:13
+msgid "Error 404 - Not Found"
+msgstr "Fejl 404 - Ikke fundet"
+
+#: d:\wordpress\themes\translated\constructor/404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Beklager, men du leder efter noget, der ikke findes her."
+
+#: d:\wordpress\themes\translated\constructor/author.php:22
+msgid "Author RSS Feed"
+msgstr "Forfatterens RSS-feed"
+
+#: d:\wordpress\themes\translated\constructor/author.php:22
+#: d:\wordpress\themes\translated\constructor/functions.php:219
+msgid "RSS Feed"
+msgstr "RSS-feed"
+
+#: d:\wordpress\themes\translated\constructor/author.php:28
+#: d:\wordpress\themes\translated\constructor/author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: d:\wordpress\themes\translated\constructor/author.php:31
+msgid "Full Name"
+msgstr "Fulde navn"
+
+#: d:\wordpress\themes\translated\constructor/author.php:35
+msgid "Nickname"
+msgstr "Kaldenavn"
+
+#: d:\wordpress\themes\translated\constructor/author.php:40
+#: d:\wordpress\themes\translated\constructor/comments.php:74
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: d:\wordpress\themes\translated\constructor/author.php:41
+msgid "Visit author website"
+msgstr "Besøg forfatterens website"
+
+#: d:\wordpress\themes\translated\constructor/author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: d:\wordpress\themes\translated\constructor/author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: d:\wordpress\themes\translated\constructor/author.php:55
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: d:\wordpress\themes\translated\constructor/author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: d:\wordpress\themes\translated\constructor/author.php:65
+msgid "About Me"
+msgstr "Om mig"
+
+#: d:\wordpress\themes\translated\constructor/author.php:70
+#, php-format
+msgid "Last posts by %s"
+msgstr "Nyeste indlæg af %s"
+
+#: d:\wordpress\themes\translated\constructor/author.php:77
+#: d:\wordpress\themes\translated\constructor/layout-default.php:17
+#: d:\wordpress\themes\translated\constructor/layout-list.php:18
+#: d:\wordpress\themes\translated\constructor/layout-tile.php:17
+#: d:\wordpress\themes\translated\constructor/page.php:20
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent link til %s"
+
+#: d:\wordpress\themes\translated\constructor/author.php:78
+#: d:\wordpress\themes\translated\constructor/layout-default.php:24
+#: d:\wordpress\themes\translated\constructor/layout-list.php:19
+#: d:\wordpress\themes\translated\constructor/layout-tile.php:23
+#: d:\wordpress\themes\translated\constructor/page.php:31
+msgid "F jS, Y"
+msgstr "j. F Y"
+
+#: d:\wordpress\themes\translated\constructor/author.php:81
+msgid "No posts by this author."
+msgstr "Ingen indlæg af denne forfatter."
+
+#: d:\wordpress\themes\translated\constructor/author.php:90
+#: d:\wordpress\themes\translated\constructor/layout-default.php:36
+#: d:\wordpress\themes\translated\constructor/layout-list.php:38
+#: d:\wordpress\themes\translated\constructor/layout-tile.php:31
+msgid "Newer Entries &raquo;"
+msgstr "Nyere indlæg &raquo;"
+
+#: d:\wordpress\themes\translated\constructor/author.php:91
+#: d:\wordpress\themes\translated\constructor/layout-default.php:35
+#: d:\wordpress\themes\translated\constructor/layout-list.php:37
+#: d:\wordpress\themes\translated\constructor/layout-tile.php:30
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ældre indlæg"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette indlæg er kodeordsbeskyttet. Indtast kodeordet for at se kommentarer."
+
+#: d:\wordpress\themes\translated\constructor/comments.php:21
+msgid "No Responses"
+msgstr "Ingen reaktioner"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:21
+msgid "One Response"
+msgstr "&Eacute;n reaktion"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:21
+msgid "% Responses"
+msgstr "% reaktioner"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "til &#8220;%s&#8221;"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:39
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: d:\wordpress\themes\translated\constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "Læg et svar"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Læg et svar til %s"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du skal være <a href=\"%s\">logget ind</a> for at indsende en kommentar."
+
+#: d:\wordpress\themes\translated\constructor/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Logget ind som <a href=\"%1$s\">%2$s</a>."
+
+#: d:\wordpress\themes\translated\constructor/comments.php:63
+msgid "Log out of this account"
+msgstr "Log ud af denne konto"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:63
+msgid "Log out &raquo;"
+msgstr "Log ud &raquo;"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:68
+msgid "Name"
+msgstr "Navn"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:68
+#: d:\wordpress\themes\translated\constructor/comments.php:71
+msgid "(required)"
+msgstr "(skal udfyldes)"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:71
+msgid "Mail (will not be published)"
+msgstr "E-mail (vil ikke blive offentliggjort)"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Du må bruge disse tags: <code>%s</code>"
+
+#: d:\wordpress\themes\translated\constructor/comments.php:82
+msgid "Submit Comment"
+msgstr "Indsend kommentar"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:217
+msgid "Home"
+msgstr "Forside"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:248
+#: d:\wordpress\themes\translated\constructor/page.php:24
+#: d:\wordpress\themes\translated\constructor/sidebar.php:18
+msgid "Pages"
+msgstr "Sider"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:282
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s kører stolt på %2$s"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:283
+msgid "Constructor Theme"
+msgstr "Temaet Constructor"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:284
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s og %2$s."
+
+#: d:\wordpress\themes\translated\constructor/functions.php:284
+msgid "Entries (RSS)"
+msgstr "Indlæg (RSS)"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:284
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+#: d:\wordpress\themes\translated\constructor/functions.php:288
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d forespørgsler. %s sekunder."
+
+#: d:\wordpress\themes\translated\constructor/functions.php:306
+msgid "No Image"
+msgstr "Intet billede"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:20
+#: d:\wordpress\themes\translated\constructor/layout-list.php:25
+#: d:\wordpress\themes\translated\constructor/page.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr "Læs resten af dette indlæg &raquo;"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:26
+#: d:\wordpress\themes\translated\constructor/page.php:32
+#: d:\wordpress\themes\translated\constructor/sidebar.php:22
+msgid "Tags"
+msgstr "Tags"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:27
+#: d:\wordpress\themes\translated\constructor/page.php:33
+msgid "Edit"
+msgstr "Redigér"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:28
+#: d:\wordpress\themes\translated\constructor/page.php:34
+msgid "No Comments &#187;"
+msgstr "Ingen kommentarer &#187;"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:28
+#: d:\wordpress\themes\translated\constructor/page.php:34
+msgid "1 Comment &#187;"
+msgstr "&Eacute;n kommentar &#187;"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:28
+#: d:\wordpress\themes\translated\constructor/page.php:34
+msgid "% Comments &#187;"
+msgstr "% kommentarer &#187;"
+
+#: d:\wordpress\themes\translated\constructor/layout-default.php:28
+#: d:\wordpress\themes\translated\constructor/page.php:34
+msgid "Comments Closed"
+msgstr "Der er lukket for kommentarer"
+
+#: d:\wordpress\themes\translated\constructor/page.php:29
+msgid "Back to Parent Page"
+msgstr "Tilbage til forælder-side"
+
+#: d:\wordpress\themes\translated\constructor/sidebar.php:20
+msgid "Categories"
+msgstr "Kategorier"
+
+#: d:\wordpress\themes\translated\constructor/sidebar.php:27
+msgid "Meta"
+msgstr "Meta"
+
+#: d:\wordpress\themes\translated\constructor/template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: d:\wordpress\themes\translated\constructor/template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: d:\wordpress\themes\translated\constructor/template-sitemap.php:32
+msgid "Archives"
+msgstr "Arkiver"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:64
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "Filen \"%s\" er ikke et billede (jpeg, png, gif)"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:125
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:162
+msgid "Customize Theme"
+msgstr "Tilpas temaet"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:125
+msgid "Customize"
+msgstr "Tilpas"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:163
+msgid "Options saved."
+msgstr "Indstillingerne gemt"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:167
+msgid "Errors"
+msgstr "Fejl"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings.php:194
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:1
+msgid "Colors"
+msgstr "Farver"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:62
+msgid "Opacity"
+msgstr "Gennemsigtighed"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:64
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:65
+msgid "None"
+msgstr "Ingen"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:67
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:68
+msgid "Color"
+msgstr "Farve"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:70
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:71
+msgid "Dark"
+msgstr "Mørk"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:73
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:74
+msgid "Light"
+msgstr "Lys"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:79
+msgid "Shadow"
+msgstr "Skygge"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:82
+msgid "Only for Safari and Chrome"
+msgstr "Kun vedr. Safari og Chrome"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:86
+msgid "Elements Colors"
+msgstr "Element-farver"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:89
+msgid "background"
+msgstr "Baggrund"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:92
+msgid "background alternative"
+msgstr "Baggrund, alternativ"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:95
+msgid "opacity style color"
+msgstr "Farve for uigennemsigtighed-style"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:98
+msgid "text"
+msgstr "tekst"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:101
+msgid "text alternative"
+msgstr "Tekst, alterantive"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:104
+msgid "border"
+msgstr "ramme"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:107
+msgid "border alternative"
+msgstr "ramme, alternativ"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:110
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:113
+#: d:\wordpress\themes\translated\constructor/admin/settings/colors.php:116
+msgid "tags"
+msgstr "tags"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/content.php:1
+msgid "Content"
+msgstr "Indhold"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/content.php:4
+msgid "Posts"
+msgstr "Indlæg"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/content.php:7
+msgid "Show author link"
+msgstr "Vis forfatterlink."
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/css.php:1
+msgid "CSS"
+msgstr "CSS"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/css.php:5
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Advarsel!</b></font>: Filen \"%s\" er ikke skrivbar."
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:1
+msgid "Export"
+msgstr "Eksport"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:2
+msgid "Export Current Theme"
+msgstr "Eksportér aktuelt tema"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:3
+msgid "Use this is options for export your changes"
+msgstr "Brug denne funktion, hvis du vil have mulighed for at eksportere dine ændringer"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:3
+msgid "save changes before export"
+msgstr "gem ændringer før eksport"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:6
+msgid "click here and save file"
+msgstr "klik her og gem fil"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/export.php:12
+#, php-format
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "For import af tema &ndash; brug din FTP-adgang og opret ny mappe i mappen <code>%s/themes</code> og opload <code>config.php</code>"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/fonts.php:1
+msgid "Fonts"
+msgstr "Skrifttyper"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/fonts.php:6
+msgid "Header Font"
+msgstr "Header-skrifttype"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/fonts.php:13
+#: d:\wordpress\themes\translated\constructor/admin/settings/fonts.php:25
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/fonts.php:18
+msgid "Body Font"
+msgstr "Body-skrifttype"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/footer.php:1
+msgid "Footer"
+msgstr "Footer"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "Tekst i footer"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:1
+msgid "Header"
+msgstr "Header"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:5
+msgid "Title position"
+msgstr "Placering af titel"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:7
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:7
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:8
+msgid "Left"
+msgstr "Venstre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:8
+msgid "Center"
+msgstr "Centreret"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:9
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:10
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:11
+msgid "Right"
+msgstr "Højre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:14
+msgid "Title colors"
+msgstr "Titelfarver"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:17
+msgid "title"
+msgstr "Titel"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:20
+msgid "description"
+msgstr "Beskrivelse"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:25
+msgid "Header menu"
+msgstr "Header-menu."
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:28
+msgid "Don't show menu"
+msgstr "Vis ikke menu"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:31
+msgid "Show first-level pages"
+msgstr "Vis kun hovedsider"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:34
+msgid "Show pages in drop-down menu"
+msgstr "Vis sider i dropdown-menuen"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:37
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Vis sider i dropdown-menuen (i 2 niveauer)"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:40
+msgid "Show link to home page"
+msgstr "Vis link til forside"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/header.php:43
+msgid "Show link to RSS feed"
+msgstr "Vis link til RSS-feed"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:1
+msgid "Images"
+msgstr "Billeder"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:14
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Advarsel!</b></font>: Mappen \"%s\" er ikke skrivbar."
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:18
+msgid "Body Image"
+msgstr "Billede til 'body'"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:23
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:75
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:107
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:117
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:148
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:179
+msgid "preview"
+msgstr "Preview"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:29
+msgid "Image Repeat"
+msgstr "Gentagelse af billeder"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:30
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:31
+msgid "No Repeat"
+msgstr "Ingen gentagelser"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:34
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:35
+msgid "Repeat Horizontal"
+msgstr "Gentag horisontalt"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:38
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:39
+msgid "Repeat Vertical"
+msgstr "Gentag vertikalt"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:43
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:44
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:83
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:84
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:97
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:98
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:111
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:112
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:125
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:126
+msgid "Tile"
+msgstr "Som fliser"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:50
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:81
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:123
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:154
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:185
+msgid "Image Position"
+msgstr "Billedplacering"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:51
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:82
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:124
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:155
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:186
+msgid "Top Left"
+msgstr "Foroven til venstre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:52
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:83
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:125
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:156
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:187
+msgid "Top Center"
+msgstr "Foroven i midten"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:53
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:84
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:126
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:157
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:188
+msgid "Top Right"
+msgstr "Foroven til højre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:57
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:88
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:130
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:161
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:192
+msgid "Center Left"
+msgstr "I midten til venstre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:58
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:89
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:131
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:162
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:193
+msgid "Center Center"
+msgstr "Centreret på begge akser"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:59
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:90
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:132
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:163
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:194
+msgid "Center Right"
+msgstr "I midten til højre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:63
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:94
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:136
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:167
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:198
+msgid "Bottom Left"
+msgstr "I bunden til venstre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:64
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:95
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:137
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:168
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:199
+msgid "Bottom Center"
+msgstr "I bunden midtfor"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:65
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:96
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:138
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:169
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:200
+msgid "Bottom Right"
+msgstr "I bunden til højre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:70
+msgid "Background Image"
+msgstr "Baggrundsbillede"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:102
+msgid "Content Image"
+msgstr "Indhold-billede"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:102
+msgid "repeat by Y and w/out opacity"
+msgstr "Gentag for hver Y og uden uigennemsigtighed"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:112
+msgid "Sidebar Image"
+msgstr "Billede i sidepanel"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:143
+msgid "Extrabar Image"
+msgstr "Bilede til Extrabar"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/images.php:174
+msgid "Footer Image"
+msgstr "Footer-billede"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:1
+msgid "Layout"
+msgstr "Layout"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:50
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:32
+msgid "Options"
+msgstr "Indstillinger"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:53
+msgid "Container Width"
+msgstr "Container-bredde"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:62
+msgid "Sidebar Width"
+msgstr "Bredde på sidepanel"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:71
+msgid "Extra Bar Width"
+msgstr "Bredde på Extrabar"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:78
+msgid "Homepage"
+msgstr "Forside"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:80
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:81
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:94
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:95
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:108
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:109
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:122
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:123
+msgid "Default"
+msgstr "Standard"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:86
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:87
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:100
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:101
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:114
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:115
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:128
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:129
+msgid "List"
+msgstr "Liste"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:92
+msgid "Archive"
+msgstr "Arkiv"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:106
+msgid "Search"
+msgstr "Søg"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/layout.php:120
+msgid "Index"
+msgstr "Index-side"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:1
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:5
+msgid "Sidebar"
+msgstr "Sidepanel"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:14
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:15
+msgid "Two"
+msgstr "To"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:21
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:22
+msgid "Two Right"
+msgstr "To, højre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:24
+#: d:\wordpress\themes\translated\constructor/admin/settings/sidebar.php:25
+msgid "Two Left"
+msgstr "To, venstre"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:2
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:67
+msgid "Slideshow"
+msgstr "Diasshow"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:26
+msgid "Enable slideshow"
+msgstr "Aktivér diasshow"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:28
+msgid "by default use images from posts on current page"
+msgstr "Brug som standard billeder fra indlæggene på aktuelle side"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:35
+msgid "Show on page"
+msgstr "Vis på side"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:38
+msgid "Show on single post"
+msgstr "Vis på enkelt-indlæg."
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:43
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:44
+msgid "In Content"
+msgstr "I indhold"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:47
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:48
+msgid "Over Content"
+msgstr "Over indhold"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:55
+msgid "Height"
+msgstr "Højde"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:67
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "Brug <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:69
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:70
+msgid "Disable"
+msgstr "Deaktivér"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/slideshow.php:84
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Du kan bruge <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>-pluginnet til at lave dine egne diasshows"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/themes.php:1
+msgid "Themes"
+msgstr "Temaer"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/themes.php:42
+msgid "File \"style.css\" is not exists"
+msgstr "Filen \"style.css\" eksisterer ikke"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/themes.php:43
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: d:\wordpress\themes\translated\constructor/admin/settings/themes.php:55
+msgid "version"
+msgstr "Version"
+

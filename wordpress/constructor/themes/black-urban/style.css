@@ -1,0 +1,35 @@
+/*
+Theme Name: Black Urban
+Theme URI: 
+Description: Black Urban Constructor Theme based on <a href="http://wordpress.org/extend/themes/black-urban">Black Urban WP Theme</a>
+Version: 1.0.1
+Author: Anton Shevchuk
+Author URI: http://anton.shevchuk.name/
+*/
+.hentry .footer {
+        height:80px !important;
+        border: 0;
+        background: url(barbed-wire.jpg) 50% 100% no-repeat;
+}
+
+.navigation .alignleft a,
+.navigation .alignright a{
+    text-indent:-9999%;
+    font-size:0;
+    display:block;
+    width:80px;
+    height:72px;
+    margin:0 20px;
+}
+
+.navigation .alignleft a{
+    background: url(prev.jpg) 0 0 no-repeat;
+}
+
+.navigation .alignright a{
+    background: url(next.jpg) 0 0 no-repeat;
+}
+
+#sidebar {
+    padding-bottom:180px;
+}

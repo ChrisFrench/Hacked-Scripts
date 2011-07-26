@@ -1,0 +1,1221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-17 10:18+0200\n"
+"PO-Revision-Date: 2010-05-17 10:40+0200\n"
+"Last-Translator: Anton Shevchuk <Anton.Shevchuk@gmail.com>\n"
+"Language-Team: Anton Shevchuk <AntonShevchuk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor\n"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:24
+msgid "Pages"
+msgstr "Сторінки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:30
+msgid "Categories"
+msgstr "Рубрики"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:32
+msgid "Tags"
+msgstr "Мітки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:37
+msgid "Meta"
+msgstr "Керування"
+
+#: W:/www/wordpress/wp-content/themes/constructor/navigation.php:10
+msgid "<span>&laquo;</span> Older Entries"
+msgstr "<span>&laquo;</span> Старіші записи"
+
+#: W:/www/wordpress/wp-content/themes/constructor/navigation.php:11
+msgid "Newer Entries <span>&raquo;</span>"
+msgstr "Новіші записи <span>&raquo;</span>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:49
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Постійне посилання на %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:52
+msgid "Read the rest of this entry &raquo;"
+msgstr "Читати далі &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:87
+msgid "Back to Parent Page"
+msgstr "Повернутися"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:89
+msgid "Edit"
+msgstr "Редагувати"
+
+#: W:/www/wordpress/wp-content/themes/constructor/slideshow.php:37
+msgid "Read more &raquo;"
+msgstr "Читати далі &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+msgid "No Comments &#187;"
+msgstr "Коментарів немає &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+msgid "1 Comment &#187;"
+msgstr "1 коментар &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+msgid "% Comments &#187;"
+msgstr "% коментарів &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+msgid "Comments Closed"
+msgstr "Коментарі закриті"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Цей запис захищений паролем. Будь-ласка, введіть пароль, щоб переглянути коментарі."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:22
+msgid "No Responses"
+msgstr "Коментарів немає"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:22
+msgid "One Response"
+msgstr "Один коментар"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:22
+msgid "% Responses"
+msgstr "% коментарів"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:22
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "на &laquo;%s&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:38
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "Прокоментувати"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Відповісти %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:55
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ви маєте <a href=\"%s\">ввійти</a>, щоби залишити коментар."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:61
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Ви ввійшли як <a href=\"%1$s\">%2$s</a>."
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:61
+msgid "Log out of this account"
+msgstr "Вийти з цього акаунта"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:61
+msgid "Log out &raquo;"
+msgstr "Вийти &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:64
+msgid "Name"
+msgstr "І&rsquo;мя"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:66
+msgid "(required)"
+msgstr "(обов&rsquo;язково)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:66
+msgid "Mail (will not be published)"
+msgstr "Електронна пошта (не буде опублікований)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+msgid "Website"
+msgstr "Сайт"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Ви можете користуватися цими теґами: <code>%s</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:73
+msgid "Submit Comment"
+msgstr "Відправити коментар"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:13
+msgid "Error 404 - Not Found"
+msgstr "Помилка 404 &mdash; Сторінку не знайдено"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Пробачте, але тут немає того, що ви шукаєте."
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:224
+msgid "No Image"
+msgstr "Нема зображення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:315
+msgid "Themes"
+msgstr "Теми"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:316
+msgid "Layout"
+msgstr "Макет"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:317
+msgid "Sidebar"
+msgstr "Бічна панель"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:318
+msgid "Header"
+msgstr "&laquo;Верх сторінки&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:319
+msgid "Content"
+msgstr "Зміст"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:320
+msgid "Comments"
+msgstr "Коментарі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:321
+msgid "Footer"
+msgstr "&laquo;Низ сторінки&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:322
+msgid "Fonts"
+msgstr "Шрифти"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:323
+msgid "Colors"
+msgstr "Кольори"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:324
+msgid "Design"
+msgstr "Дезайн"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:325
+msgid "CSS"
+msgstr "CSS"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:326
+msgid "Images"
+msgstr "Зображення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:327
+msgid "Slideshow"
+msgstr "Слайдшоу"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:328
+msgid "Save"
+msgstr "Зберегти"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:329
+msgid "Help"
+msgstr "Допомога"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "Author RSS Feed"
+msgstr "RSS-стрічка автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "RSS Feed"
+msgstr "RSS-стрічка"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s і %2$s."
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:31
+msgid "Full Name"
+msgstr "І&rsquo;мя"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:35
+msgid "Nickname"
+msgstr "Призвізько"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:41
+msgid "Visit author website"
+msgstr "Персональна сторінка автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:55
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:65
+msgid "About Me"
+msgstr "Про мене"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:74
+#, php-format
+msgid "Latest posts by %s"
+msgstr "Останні записи %s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:85
+msgid "No posts by this author."
+msgstr "Намеє записів від цього автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-sitemap.php:32
+msgid "Archives"
+msgstr "Архів"
+
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:24
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s працює на %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:25
+msgid "Constructor Theme"
+msgstr "Конструктор"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layouts/single.php:6
+#: W:/www/wordpress/wp-content/themes/constructor/layouts/page.php:6
+msgid "Single"
+msgstr "Стаття"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layouts/list.php:6
+msgid "List"
+msgstr "Перелік"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layouts/tile.php:6
+msgid "Tile"
+msgstr "Заголовок"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layouts/default.php:6
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:18
+msgid "Title"
+msgstr "Заголовок"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:52
+msgid "Font Weight"
+msgstr "Ширина шрифту"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:37
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:53
+msgid "Text Decoration"
+msgstr "Декорації тексту"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:29
+msgid "Font Family Example"
+msgstr "Приклад шрифту"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:31
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "На подушечці форми любої є й ґудзик щоб пір'я геть жовте сховати. 1234567890."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:34
+msgid "Defines from thin to thick characters. 400 is the same as \"normal\", and 700 is the same as \"bold\""
+msgstr "Значення 400  &laquo;normal&raquo;, 700 &mdash; &laquo;bold&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:39
+msgid "No capitalization. The text renders as it is. This is default"
+msgstr "Як є"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:40
+msgid "Transforms the first character of each word to uppercase"
+msgstr "Усі слова з великої літери"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:41
+msgid "Transforms all characters to uppercase"
+msgstr "Текст великими літерами"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:42
+msgid "Transforms all characters to lowercase"
+msgstr "Текст маленькими літерами"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:47
+msgid "Description"
+msgstr "Опис"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:57
+msgid "Headers"
+msgstr "Заголовки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:48
+msgid "Opacity"
+msgstr "Прозорість"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:50
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:51
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:86
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:87
+msgid "None"
+msgstr "Немає"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:53
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:54
+msgid "Color"
+msgstr "Кольори"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:57
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:58
+msgid "Dark Low"
+msgstr "Трохи Темний"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:60
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:61
+msgid "Dark"
+msgstr "Темний"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:63
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:64
+msgid "Dark High"
+msgstr "Дуже Темний"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:67
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:68
+msgid "Light Low"
+msgstr "Трохи Світлий"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:70
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:71
+msgid "Light"
+msgstr "Світлий"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:73
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:74
+msgid "Light High"
+msgstr "Дуже Світлий"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:79
+msgid "Elements Colors"
+msgstr "Колір елементів"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:82
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:85
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:88
+msgid "tags"
+msgstr "теґи"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:91
+msgid "text"
+msgstr "текст"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:94
+msgid "text alternative"
+msgstr "текст (альтернативний)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:97
+msgid "background"
+msgstr "фон"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:100
+msgid "background alternative"
+msgstr "фон (альтернативний)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:103
+msgid "border"
+msgstr "границі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:106
+msgid "border alternative"
+msgstr "границі (альтернативний)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:109
+msgid "opacity style color"
+msgstr "Колір &laquo;прозорості&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:47
+msgid "Width"
+msgstr "Ширина"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:50
+msgid "Container Width"
+msgstr "Ширина основної частини"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:59
+msgid "Sidebar Width"
+msgstr "Ширина бічної панелі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:68
+msgid "Extra Bar Width"
+msgstr "Ширина другої бічної панелі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:76
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:77
+msgid "Left"
+msgstr "Ліворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:79
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:80
+msgid "Right"
+msgstr "Праворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:83
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:84
+msgid "Two"
+msgstr "Дві"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:90
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:91
+msgid "Two Right"
+msgstr "Дві праворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:94
+msgid "Two Left"
+msgstr "Дві ліворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:7
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Увага!</b></font>: Файл  &laquo;%s&raquo; має атрибут тільки для читання."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:58
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:75
+msgid "Enable"
+msgstr "Вімкнути"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:34
+msgid "By default use images from posts with thumbnails"
+msgstr "За замовчуванням викорустовуються зображення з <code>thumbnails</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:38
+msgid "Options"
+msgstr "Налаштування"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:41
+msgid "Show on page"
+msgstr "Відображати на сторінках"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:44
+msgid "Show on single post"
+msgstr "Відображати на сторінках із записами"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:47
+msgid "Show on archive"
+msgstr "Відображати на сторінках архіву"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:53
+msgid "Height"
+msgstr "Висота"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:62
+msgid "Advanced options"
+msgstr "Тонке налаштування"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:63
+msgid "only for default slideshow"
+msgstr "Лише для слайдшоу за замовчуванням"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:67
+msgid "Number of slides"
+msgstr "Кількість слайдів"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:71
+msgid "Autoplay"
+msgstr "Автопрогравання"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:74
+msgid "Effect time (ms)"
+msgstr "Час ефекта (ms)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:77
+msgid "Timeout between slides (ms)"
+msgstr "Час затримки (ms)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:81
+msgid "Autogenerate thumbnail with right size"
+msgstr "Автоматично сгенеровані мініатюри"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:86
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:26
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:75
+msgid "Position"
+msgstr "Положення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:88
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:89
+msgid "In Content"
+msgstr "Фонове зображення для вмісту сайта"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:92
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:93
+msgid "Over Content"
+msgstr "Над змістом"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:104
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\" title=\"wordpress.org\">NextGEN-Gallery</a>"
+msgstr "викоритовує <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\" title=\"wordpress.org\">NextGEN-Gallery</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:105
+msgid "required <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" title=\"www.longtailvideo.com\">imagerotator.swf</a>"
+msgstr "потребує <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" title=\"www.longtailvideo.com\">imagerotator.swf</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:123
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Ви маєте можливість використати <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:39
+msgid "Homepage"
+msgstr "Додому"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:41
+msgid "Post"
+msgstr "Стаття"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:43
+msgid "Page"
+msgstr "Сторінка"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:45
+msgid "Search"
+msgstr "Пошук"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:47
+msgid "Date"
+msgstr "Дата"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:27
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:49
+msgid "Category"
+msgstr "Рубрики"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:51
+msgid "Tag"
+msgstr "Мітки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:6
+msgid "Posts"
+msgstr "Статті"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:9
+msgid "Show author link"
+msgstr "Відображати посилання на сторінку автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:16
+msgid "Content widgets place"
+msgstr "Розміщення віджету у контенті"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:17
+msgid "can configured with <a href=\"widgets.php\">widgets</a>, use \"content\" sidebar"
+msgstr "можете також скористуватися  <a href=\"widgets.php\">віджетами</a>, використовуйте &laquo;content&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:23
+msgid "Show widgets place"
+msgstr "Відображати розміщення віджета"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:35
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:36
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:37
+#, php-format
+msgid "after %d post"
+msgstr "після %d запису"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/comments.php:25
+msgid "Avatar size"
+msgstr "Розмір аватару"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/comments.php:36
+msgid "Thumbnail position"
+msgstr "Положення мініатюр"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "Текст внизу сторінки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:7
+msgid "Enter the text you want to appear in the Footer (or just enter a space if you don’t want any Footer text)"
+msgstr "Введіть текст для &laquo;підвалу&raquo;, або лише пробіл, якщо нічого не треба"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:5
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:34
+msgid "Body Image"
+msgstr "Фонове зображення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:6
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:42
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:7
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:50
+msgid "Header Wrapper Image"
+msgstr "Зображення обертки вгорі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:8
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:64
+msgid "Content Wrapper Image"
+msgstr "Зображення обертки для вмісту"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:9
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:92
+msgid "Footer Wrapper Image"
+msgstr "Зображення обертки низу сторінки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:10
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:57
+msgid "Header Image"
+msgstr "Зображення вгорі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:11
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:71
+msgid "Content Image"
+msgstr "Фонове зображення для вмісту сайта"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:12
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:99
+msgid "Footer Image"
+msgstr "Зображення внизу сторінки"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:13
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:78
+msgid "Sidebar Image"
+msgstr "Зображення на боковій панелі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:20
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Увага!</b></font>: Тека &laquo;%s&raquo; має атрибут тілько для читання."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:85
+msgid "Extrabar Image"
+msgstr "Зображення на боковій панелі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:111
+msgid "See helpful illustration!"
+msgstr "Ця ілюстрація має допомогти"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:132
+msgid "Preview image"
+msgstr "Попередній перегляд"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:132
+msgid "preview"
+msgstr "Попередній перегляд"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:133
+msgid "Remove image (only from theme)"
+msgstr "Видалити зображення (лише з теми)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:133
+msgid "clear"
+msgstr "очистити"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:153
+msgid "Fixed position"
+msgstr "Зафіксувати"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:175
+msgid "Image Position"
+msgstr "Положення зображення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:176
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:27
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:77
+msgid "Top Left"
+msgstr "Зверху Ліворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:177
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:28
+msgid "Top Center"
+msgstr "Зверху Посередині"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:178
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:79
+msgid "Top Right"
+msgstr "Зверху Праворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:182
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:83
+msgid "Center Left"
+msgstr "Посередені Ліворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:183
+msgid "Center Center"
+msgstr "Посередені"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:184
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:85
+msgid "Center Right"
+msgstr "Посередені Праворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:188
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:39
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:89
+msgid "Bottom Left"
+msgstr "Внизу Ліворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:189
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:40
+msgid "Bottom Center"
+msgstr "Внизу Посередині"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:190
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:41
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:91
+msgid "Bottom Right"
+msgstr "Внизу Праворуч"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:193
+msgid "Image Repeat"
+msgstr "Повторення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:194
+msgid "No Repeat"
+msgstr "Без повторювання"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:195
+msgid "Repeat Horizontal"
+msgstr "Повторювати по горізонталі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:197
+msgid "Repeat Vertical"
+msgstr "Повторювати по вертикалі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:24
+msgid "Title position"
+msgstr "Положення заголовка"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:47
+msgid "Hidden title"
+msgstr "Схований заголовок"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:50
+msgid "hide title by CSS"
+msgstr "сховати за допомогою CSS"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:55
+msgid "Header height"
+msgstr "Висота &laquo;шапки&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:65
+msgid "Header menu"
+msgstr "Меню вгорі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:66
+msgid "menu can configured with <a href=\"widgets.php\">widgets</a>, use \"header\" sidebar"
+msgstr "можете також скористуватися  <a href=\"widgets.php\">віджетами</a>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:72
+msgid "Show top menu"
+msgstr "Відображати меню"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:98
+msgid "stretch across the width"
+msgstr "завширшки 100%"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:102
+msgid "Disable pages"
+msgstr "Без сторінок"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:103
+msgid "Show first-level pages"
+msgstr "Відображати лише сторінки першого рівня"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:104
+msgid "Show pages in drop-down menu"
+msgstr "Відображати у випадаючому меню"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:105
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Відображати у випадаючому меню (два рівня)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:106
+msgid "Show pages in drop-down menu (3-levels)"
+msgstr "Відображати у випадаючому меню (три рівня)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:109
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:126
+msgid "Exclude:"
+msgstr "За винятком:"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:111
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:128
+msgid "(IDs, coma separated)"
+msgstr "(ID елементів, через кому)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:116
+msgid "Group categories in one menu item"
+msgstr "Відображати рубрики в одному елементі меню"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:119
+msgid "Disable categories"
+msgstr "Без рубрик"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:120
+msgid "Show first-level categories"
+msgstr "Відображати лише рубрики першого рівня"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:121
+msgid "Show categories in drop-down menu"
+msgstr "Відображати рубрики у випадаючому меню"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:122
+msgid "Show categories in drop-down menu (2-levels)"
+msgstr "Відображати рубрики у випадаючому меню (два рівня)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:123
+msgid "Show categories in drop-down menu (3-levels)"
+msgstr "Відображати рубрики у випадаючому меню (три рівня)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:130
+msgid "Custom title:"
+msgstr "Назва:"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:134
+msgid "Links"
+msgstr "Посилання"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:137
+msgid "Show link to home page"
+msgstr "Відображати посилання на головну сторінку"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:140
+msgid "Show link to RSS feed"
+msgstr "Відображати посилання на RSS-стрічку"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:142
+msgid "Tools"
+msgstr "Знаряддя"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:145
+msgid "Show search form"
+msgstr "Відображати форму пошуку"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:6
+msgid "Constructor Wordpress Theme"
+msgstr "Конструктор"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:8
+msgid "Project Homepage"
+msgstr "Домашня сторінка проекта"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:9
+msgid "Author Homepage"
+msgstr "Домашня сторінка автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:12
+msgid "Related Links"
+msgstr "Посилання"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:23
+msgid "Donate"
+msgstr "Допомогти"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:41
+msgid "Author works"
+msgstr "Перелік робіт автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:1
+msgid "Save As"
+msgstr "Зберегти як..."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:13
+msgid "Save Current Theme As ..."
+msgstr "Зберeгти тему як..."
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:24
+msgid "Theme Name"
+msgstr "Назва теми"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:28
+msgid "Theme URI"
+msgstr "Домашня сторінка теми"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:36
+msgid "Version"
+msgstr "Версія"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:40
+msgid "Author"
+msgstr "Автор"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:44
+msgid "Author URI"
+msgstr "Домашня сторінка автора"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:49
+msgid "Save Theme"
+msgstr "Зберегти"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:51
+msgid "File \"style.css\" is not exists"
+msgstr "Файла &laquo;styles.css&raquo; не існує"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:52
+msgid "Anonymous"
+msgstr "Анонім"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:66
+msgid "version"
+msgstr "версія"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:53
+msgid "Borders"
+msgstr "Границі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:61
+msgid "Border radius"
+msgstr "Радіус скруглення"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:69
+msgid "Shadow"
+msgstr "Тінь"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:78
+msgid "Horizontal offset"
+msgstr "Відступ по горізонталі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:81
+msgid "Vertical offset"
+msgstr "Відступ по вертикалі"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/design.php:84
+msgid "Blur"
+msgstr "Розмивання"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:36
+#, php-format
+msgid "Directory \"%s\" is not writable."
+msgstr "Тека &laquo;%s&raquo; не має відповідних прав"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:54
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:68
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:72
+#, php-format
+msgid "Can't copy file \"%s\"."
+msgstr "Не можемо скопіювати файл &laquo;%s&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:107
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:111
+#, php-format
+msgid "Can't save file \"%s\"."
+msgstr "Не можемо зберегти файл &laquo;%s&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:114
+msgid "Theme was saved, please reload page for view changes"
+msgstr "Тема збережена, оновіть сторінку"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Main.php:205
+msgid "Home"
+msgstr "Додому"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Main.php:371
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s і %2$s."
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Main.php:371
+msgid "Entries (RSS)"
+msgstr "Записи (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Main.php:371
+msgid "Comments (RSS)"
+msgstr "Коментарі (RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Main.php:375
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d запитів. %s секунд."
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:115
+#, php-format
+msgid "System can't create \"%s\" directory"
+msgstr "Система не в змозі створити папку &laquo;%s&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:130
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif, tiff)"
+msgstr "Файл &laquo;%s&raquo; не є зображенням"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:137
+#, php-format
+msgid "File \"%s\" can't be move to \"images\" folder"
+msgstr "Файл &laquo;%s&raquo; не може бути перенесен до &laquo;images&raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:222
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:373
+msgid "Customize Theme"
+msgstr "Налаштування теми"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:223
+msgid "Customize"
+msgstr "Налаштування"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:376
+msgid "If you like this theme and find it useful, help keep this theme free and actively developed by clicking the donate button (via PayPal or CC)"
+msgstr "Якшо бажаєте допомогти, Ви маєте цю можливість ;)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:380
+msgid "Options saved."
+msgstr "Налаштування збережені."
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:384
+msgid "Some images can't be upload. Please check permissions"
+msgstr "Деякі зображення не були завантаженні, будь ласка перевірте права доступу"
+
+#: W:/www/wordpress/wp-content/themes/constructor/libs/Constructor/Admin.php:405
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#~ msgid "Index"
+#~ msgstr "Index"
+#~ msgid "Archive"
+#~ msgstr "Архів"
+#~ msgid "required <strong>imagerotator.swf</strong>"
+#~ msgstr "потребує <strong>imagerotator.swf</strong>"
+#~ msgid "Global categories"
+#~ msgstr "Рубрики"
+#~ msgid "Many In One"
+#~ msgstr "Багато до одного"
+#~ msgid "Header Font"
+#~ msgstr "Шрифт заголовків"
+#~ msgid "Body Font"
+#~ msgstr "Шрифт тексту"
+#~ msgid "Key of custom field"
+#~ msgstr "Назва додаткового поля"
+#~ msgid "Thumbnails"
+#~ msgstr "Мініатюри"
+#~ msgid "Autogenerate thumbnails"
+#~ msgstr "Сгенеровані мініатюри"
+#~ msgid "\"List\" layout options"
+#~ msgstr "Налаштування для макету &laquo;перелік&raquo;"
+#~ msgid ""
+#~ "Strip HTML tags from announce (leave only <code>&lt;p&gt;&lt;br&gt;&lt;"
+#~ "a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;"
+#~ "ol&gt;&lt;li&gt;</code>)"
+#~ msgstr ""
+#~ "Вилучати HTML теґи (окрім <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;"
+#~ "i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</"
+#~ "code>)"
+#~ msgid "Show \"No Image\" picture"
+#~ msgstr "Відображати зображення &laquo;No Image&raquo;"
+#~ msgid "Title font"
+#~ msgstr "Шрифт заголовка"
+#~ msgid "title"
+#~ msgstr "заголовок"
+#~ msgid "description"
+#~ msgstr "опис"
+#~ msgid "Tile layout"
+#~ msgstr "Макет &laquo;плитка&raquo;"
+#~ msgid ""
+#~ "For \"tile\" layout using images from custom fields with key <code>thumb</"
+#~ "code> (or use autogenerate option on content tab)"
+#~ msgstr ""
+#~ "Для макету &laquo;плитка&raquo; викорустовуються зображення з власного "
+#~ "поля записів з ім'ям <code>thumb</code> (або використовуйте автоматично "
+#~ "сгенеровані мініатюри)"
+#~ msgid "List layout"
+#~ msgstr "Макет &laquo;перелік&raquo;"
+#~ msgid ""
+#~ "For \"list\" layout using images from custom fields with key <code>thumb-"
+#~ "list</code> (or use autogenerate option on content tab)"
+#~ msgstr ""
+#~ "Для макету &laquo;перелік&raquo; викорустовуються зображення з власного "
+#~ "поля записів з ім'ям <code>thumb-list</code> (або використовуйте "
+#~ "автоматично сгенеровані мініатюри)"
+#~ msgid ""
+#~ "For slideshow using images from custom fields with key <code>thumb-"
+#~ "slideshow</code> (by default, your can change it on slideshow tab)"
+#~ msgstr ""
+#~ "Для слайдів викорустовуються зображення з власного поля записів з ім'ям "
+#~ "<code>thumb-slideshow</code> (змінити його можливо на вкладці &laquo;"
+#~ "Слайдшоу&raquo;)"
+#~ msgid "Center"
+#~ msgstr "Посередині"
+#~ msgid "Only for Safari and Chrome"
+#~ msgstr "Лише для Safari та Chrome"
+#~ msgid "Enable slideshow"
+#~ msgstr "Увімкнути слайдшоу"
+#~ msgid "Errors"
+#~ msgstr "Помилки"
+#~ msgid "Export"
+#~ msgstr "Експорт"
+#~ msgid "Use this is options for export your changes"
+#~ msgstr "Використовуйте цю опцію для збереження поточних змін"
+#~ msgid "save changes before export"
+#~ msgstr "збережіть зміни перед експортуванням"
+#~ msgid "click here and save file"
+#~ msgstr "натисніть і збережіть файл"
+#~ msgid ""
+#~ "For import theme - use your FTP access and create new folder in folder "
+#~ "<code>%s/themes</code> and upload <code>config.php</code>"
+#~ msgstr ""
+#~ "Для імпортування змін скористайтеся FTP-доступом: створіть нову підтеку в "
+#~ "теці <code>%s/themes</code> та завантажте в неї збережений <code>config."
+#~ "php</code>"
+#~ msgid ""
+#~ "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+#~ msgstr ""
+#~ "Створіть файл <code>style.css</code> з наступним текстом (те що у "
+#~ "верхньому регістрі треба змінити)"
+#~ msgid ""
+#~ "Create <code>screenshot.png</code> with screen of your theme and "
+#~ "resolution 300x225 and upload too (isn't requried)"
+#~ msgstr ""
+#~ "Створіть<code>screenshot.png</code> з зображенням вашої теми 300x225 (це "
+#~ "не обов'язкове)"
+#~ msgid "Title colors"
+#~ msgstr "Колір заголовка"
+

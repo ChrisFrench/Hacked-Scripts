@@ -1,0 +1,69 @@
+/*  
+Theme Name: Constructor
+Stylesheet: Right-to-Left
+*/
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+}
+/*Menu*/
+#menu li li a {
+    text-align:right;
+    padding:0 16px 0 24px;
+}
+/*/Menu*/
+/*Sidebars*/
+.sidebar ul ul{
+    padding:0 4px 0 0;
+}
+.sidebar li li li {
+    padding:2px 6px 2px 2px;
+}
+/*/Sidebars*/
+/*Posts*/
+.hentry .entry h1,
+.hentry .entry h2,
+.hentry .entry h3,
+.hentry .entry h4,
+.hentry .entry h5,
+.hentry .entry h6,
+.hentry .entry ul,
+.hentry .entry ol {
+    margin-right:12px;
+}
+
+.hentry .entry li ol,
+.hentry .entry li ul {
+    padding-right:6px
+}
+/*-tile*/
+.tile .title{
+    text-align:right;
+}
+/*-list*/
+.list .date{
+    right:auto;
+    left:12px;
+}
+
+/*/Posts*/
+/*Author Page*/
+.feed-icon {
+    right:auto;
+    left:8px;
+}
+
+.author dt {
+    float: right;
+    clear: right;
+    text-align:left;
+}
+.author dd {
+    margin:0 170px 0 0;
+}
+/*/Author Page*/
+/*Comments*/
+#commentform {
+    margin: 5px 0 0 10px
+}
+/*/Comments*/

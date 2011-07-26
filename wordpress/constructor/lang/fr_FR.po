@@ -1,0 +1,881 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reaves\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-06 18:26+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anton Shevchuk <Anton.Shevchuk@gmail.com>\n"
+"Language-Team:  <biologie.france@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Non trouvé"
+
+#: ../404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Desolé, mais il n'y a rien ici"
+
+#: ../author.php:22
+msgid "Author RSS Feed"
+msgstr "Flux RSS de l'auteur"
+
+#: ../author.php:22
+#: ../functions.php:228
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: ../author.php:28
+#: ../author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../author.php:31
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: ../author.php:35
+msgid "Nickname"
+msgstr "Surnom"
+
+#: ../author.php:40
+#: ../comments.php:74
+msgid "Website"
+msgstr "Site web"
+
+#: ../author.php:41
+msgid "Visit author website"
+msgstr "Site web de l'auteur"
+
+#: ../author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ../author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: ../author.php:55
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: ../author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: ../author.php:65
+msgid "About Me"
+msgstr "A mon propos"
+
+#: ../author.php:70
+#, php-format
+msgid "Last posts by %s"
+msgstr "Dernier article par %s"
+
+#: ../author.php:77
+#: ../layout-default.php:17
+#: ../layout-list.php:18
+#: ../layout-tile.php:17
+#: ../page.php:20
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Lien permanent vers %s"
+
+#: ../author.php:78
+#: ../layout-default.php:24
+#: ../layout-list.php:19
+#: ../layout-tile.php:25
+#: ../page.php:31
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: ../author.php:81
+msgid "No posts by this author."
+msgstr "Aucun article de cet auteur"
+
+#: ../author.php:90
+#: ../layout-default.php:36
+#: ../layout-list.php:38
+#: ../layout-tile.php:33
+msgid "Newer Entries &raquo;"
+msgstr "Nouvelles entrées &raquo;"
+
+#: ../author.php:91
+#: ../layout-default.php:35
+#: ../layout-list.php:37
+#: ../layout-tile.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Anciennes entrées"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par mot de passe. Entrez le mot de passe pour voir les commentaires"
+
+#: ../comments.php:21
+msgid "No Responses"
+msgstr "Aucune réponse"
+
+#: ../comments.php:21
+msgid "One Response"
+msgstr "Une réponse"
+
+#: ../comments.php:21
+msgid "% Responses"
+msgstr "% Réponses"
+
+#: ../comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "à &#8220;%s&#8221;"
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../comments.php:49
+msgid "Leave a Reply"
+msgstr "Laisser une réponse"
+
+#: ../comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Laisser une réponse pour %s"
+
+#: ../comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour poster un commentaire."
+
+#: ../comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>."
+
+#: ../comments.php:63
+msgid "Log out of this account"
+msgstr "Se déconnecter de ce compte"
+
+#: ../comments.php:63
+msgid "Log out &raquo;"
+msgstr "Se déconnecter &raquo;"
+
+#: ../comments.php:68
+msgid "Name"
+msgstr "Nom"
+
+#: ../comments.php:68
+#: ../comments.php:71
+msgid "(required)"
+msgstr "(requis)"
+
+#: ../comments.php:71
+msgid "Mail (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#: ../comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Vous pouvez utiliser ces tags: <code>%s</code>"
+
+#: ../comments.php:82
+msgid "Submit Comment"
+msgstr "Envoyer"
+
+#: ../functions.php:226
+msgid "Home"
+msgstr "Accueil"
+
+#: ../functions.php:257
+#: ../page.php:24
+#: ../sidebar.php:18
+msgid "Pages"
+msgstr "Pages"
+
+#: ../functions.php:291
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s est fièrement propulsé par %2$s, traduit par <a href=http://mu.biologie-france.com/>Autour d'un Café</a>"
+
+#: ../functions.php:292
+msgid "Constructor Theme"
+msgstr "Thème Constructor"
+
+#: ../functions.php:293
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s et %2$s."
+
+#: ../functions.php:293
+msgid "Entries (RSS)"
+msgstr "Flux RSS des articles"
+
+#: ../functions.php:293
+msgid "Comments (RSS)"
+msgstr "Flux RSS des commentaires"
+
+#: ../functions.php:297
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d requêtes, %s secondes"
+
+#: ../functions.php:311
+msgid "No Image"
+msgstr "Aucune image"
+
+#: ../layout-default.php:20
+#: ../layout-list.php:25
+#: ../page.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lisez le reste de cet article &raquo;"
+
+#: ../layout-default.php:26
+#: ../page.php:32
+#: ../sidebar.php:22
+msgid "Tags"
+msgstr "Tags"
+
+#: ../layout-default.php:27
+#: ../page.php:33
+msgid "Edit"
+msgstr "Editer"
+
+#: ../layout-default.php:28
+#: ../page.php:34
+msgid "No Comments &#187;"
+msgstr "Aucun commentaire &#187;"
+
+#: ../layout-default.php:28
+#: ../page.php:34
+msgid "1 Comment &#187;"
+msgstr "1 commentaire &#187;"
+
+#: ../layout-default.php:28
+#: ../page.php:34
+msgid "% Comments &#187;"
+msgstr "% commentaires &#187;"
+
+#: ../layout-default.php:28
+#: ../page.php:34
+msgid "Comments Closed"
+msgstr "Commentaires fermés"
+
+#: ../page.php:29
+msgid "Back to Parent Page"
+msgstr "Retour vers la page parente"
+
+#: ../sidebar.php:20
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../sidebar.php:27
+msgid "Meta"
+msgstr "Meta"
+
+#: ../template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: ../template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: ../template-sitemap.php:32
+msgid "Archives"
+msgstr "Archives"
+
+#: ../admin/settings.php:63
+#, php-format
+msgid "System can't create \"%s\" directory"
+msgstr "Le système ne peut créer le repertoire \"%s\" "
+
+#: ../admin/settings.php:78
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "Le fichier \"%s\" n'est pas une image (jpeg, png, gif)"
+
+#: ../admin/settings.php:139
+#: ../admin/settings.php:176
+msgid "Customize Theme"
+msgstr "Personnaliser le thème"
+
+#: ../admin/settings.php:139
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: ../admin/settings.php:177
+msgid "Options saved."
+msgstr "Options enregistrées"
+
+#: ../admin/settings.php:181
+msgid "Errors"
+msgstr "Erreurs"
+
+#: ../admin/settings.php:208
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../admin/settings/colors.php:1
+msgid "Colors"
+msgstr "Couleurs"
+
+#: ../admin/settings/colors.php:62
+msgid "Opacity"
+msgstr "Opacité"
+
+#: ../admin/settings/colors.php:64
+#: ../admin/settings/colors.php:65
+msgid "None"
+msgstr "Aucun"
+
+#: ../admin/settings/colors.php:67
+#: ../admin/settings/colors.php:68
+msgid "Color"
+msgstr "Couleur"
+
+#: ../admin/settings/colors.php:71
+#: ../admin/settings/colors.php:72
+msgid "Dark Low"
+msgstr "Noir clair"
+
+#: ../admin/settings/colors.php:74
+#: ../admin/settings/colors.php:75
+msgid "Dark"
+msgstr "Sombre"
+
+#: ../admin/settings/colors.php:77
+#: ../admin/settings/colors.php:78
+msgid "Dark High"
+msgstr "Noir foncé"
+
+#: ../admin/settings/colors.php:81
+#: ../admin/settings/colors.php:82
+msgid "Light Low"
+msgstr "Clair obscur"
+
+#: ../admin/settings/colors.php:84
+#: ../admin/settings/colors.php:85
+msgid "Light"
+msgstr "Clair"
+
+#: ../admin/settings/colors.php:87
+#: ../admin/settings/colors.php:88
+msgid "Light High"
+msgstr "Très clair"
+
+#: ../admin/settings/colors.php:93
+msgid "Shadow"
+msgstr "Ombre"
+
+#: ../admin/settings/colors.php:96
+msgid "Only for Safari and Chrome"
+msgstr "Seulement pour Safari et Chrome"
+
+#: ../admin/settings/colors.php:100
+msgid "Elements Colors"
+msgstr "Couleur des éléments"
+
+#: ../admin/settings/colors.php:103
+msgid "background"
+msgstr "fond"
+
+#: ../admin/settings/colors.php:106
+msgid "background alternative"
+msgstr "fond alternatif"
+
+#: ../admin/settings/colors.php:109
+msgid "opacity style color"
+msgstr "couleur de l'opacité"
+
+#: ../admin/settings/colors.php:112
+msgid "text"
+msgstr "texte"
+
+#: ../admin/settings/colors.php:115
+msgid "text alternative"
+msgstr "texte alternatif"
+
+#: ../admin/settings/colors.php:118
+msgid "border"
+msgstr "bordure"
+
+#: ../admin/settings/colors.php:121
+msgid "border alternative"
+msgstr "bordure alternative"
+
+#: ../admin/settings/colors.php:124
+#: ../admin/settings/colors.php:127
+#: ../admin/settings/colors.php:130
+msgid "tags"
+msgstr "tags"
+
+#: ../admin/settings/content.php:1
+msgid "Content"
+msgstr "Contenu"
+
+#: ../admin/settings/content.php:4
+msgid "Posts"
+msgstr "Articles"
+
+#: ../admin/settings/content.php:7
+msgid "Show author link"
+msgstr "Montrer le lien de l'auteur"
+
+#: ../admin/settings/css.php:1
+msgid "CSS"
+msgstr "CSS"
+
+#: ../admin/settings/css.php:5
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Attention!</b></font>: Le fichier \"%s\" ne peut être modifié."
+
+#: ../admin/settings/export.php:1
+msgid "Export"
+msgstr "Exporter"
+
+#: ../admin/settings/export.php:2
+msgid "Export Current Theme"
+msgstr "Exporter le thème courant"
+
+#: ../admin/settings/export.php:3
+msgid "Use this is options for export your changes"
+msgstr "Utiliser cette option pour exporter vos changements"
+
+#: ../admin/settings/export.php:3
+msgid "save changes before export"
+msgstr "enregistrer les modifications avant l'export"
+
+#: ../admin/settings/export.php:6
+msgid "click here and save file"
+msgstr "cliquez ici et enregistrez le fichier"
+
+#: ../admin/settings/export.php:12
+#, php-format
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "Pour importer ce thème, utilisez votre accès FTP, créez un nouveau répertoire dans le repertoire<code>%s/themes</code> et uploadez <code>config.php</code>"
+
+#: ../admin/settings/export.php:17
+msgid "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+msgstr "Créez le fichier <code>style.css</code> avec le texte suivant (les changements sont en MAJUSCULE)"
+
+#: ../admin/settings/export.php:31
+msgid "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't required)"
+msgstr "Créez le fichier <code>screenshot.png</code> avec un aperçu de votre thème et une résolution de 300x225 et uploadez le (ce n'est pas requis)"
+
+#: ../admin/settings/fonts.php:1
+msgid "Fonts"
+msgstr "Police"
+
+#: ../admin/settings/fonts.php:6
+msgid "Header Font"
+msgstr "Police de l'en-tête"
+
+#: ../admin/settings/fonts.php:13
+#: ../admin/settings/fonts.php:25
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Le renard roux rapide saute au dessus du chien paresseux"
+
+#: ../admin/settings/fonts.php:18
+msgid "Body Font"
+msgstr "Police du corps"
+
+#: ../admin/settings/footer.php:1
+msgid "Footer"
+msgstr "Pied de page"
+
+#: ../admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "Texte du pied de page"
+
+#: ../admin/settings/header.php:1
+msgid "Header"
+msgstr "En-tête"
+
+#: ../admin/settings/header.php:5
+msgid "Title position"
+msgstr "Position du titre"
+
+#: ../admin/settings/header.php:7
+#: ../admin/settings/sidebar.php:7
+#: ../admin/settings/sidebar.php:8
+msgid "Left"
+msgstr "Gauche"
+
+#: ../admin/settings/header.php:8
+msgid "Center"
+msgstr "Centre"
+
+#: ../admin/settings/header.php:9
+#: ../admin/settings/sidebar.php:10
+#: ../admin/settings/sidebar.php:11
+msgid "Right"
+msgstr "Droite"
+
+#: ../admin/settings/header.php:14
+msgid "Title colors"
+msgstr "Couleur du titre"
+
+#: ../admin/settings/header.php:17
+msgid "title"
+msgstr "titre"
+
+#: ../admin/settings/header.php:20
+msgid "description"
+msgstr "description"
+
+#: ../admin/settings/header.php:25
+msgid "Header menu"
+msgstr "Menu d'en-tête"
+
+#: ../admin/settings/header.php:28
+msgid "Don't show menu"
+msgstr "Ne pas montrer le menu"
+
+#: ../admin/settings/header.php:31
+msgid "Show first-level pages"
+msgstr "Montrer les pages du premier niveau"
+
+#: ../admin/settings/header.php:34
+msgid "Show pages in drop-down menu"
+msgstr "Montrer les pages dans un menu déroulant"
+
+#: ../admin/settings/header.php:37
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Montrer les pages dans un menu déroulant (2 niveaux)"
+
+#: ../admin/settings/header.php:40
+msgid "Show link to home page"
+msgstr "Montrer le lien vers la page d'accueil"
+
+#: ../admin/settings/header.php:43
+msgid "Show link to RSS feed"
+msgstr "Montrer le lien du flux RSS"
+
+#: ../admin/settings/images.php:1
+msgid "Images"
+msgstr "Images"
+
+#: ../admin/settings/images.php:14
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Attention!</b></font>: Le répertoire \"%s\" n'a pas les droits d'écriture."
+
+#: ../admin/settings/images.php:18
+msgid "Body Image"
+msgstr "Image du Corps"
+
+#: ../admin/settings/images.php:23
+#: ../admin/settings/images.php:81
+#: ../admin/settings/images.php:119
+#: ../admin/settings/images.php:129
+#: ../admin/settings/images.php:160
+#: ../admin/settings/images.php:191
+msgid "preview"
+msgstr "aperçu"
+
+#: ../admin/settings/images.php:30
+#: ../admin/settings/images.php:88
+msgid "Fixed position"
+msgstr "Position fixe"
+
+#: ../admin/settings/images.php:35
+msgid "Image Repeat"
+msgstr "Répéter l'image"
+
+#: ../admin/settings/images.php:36
+#: ../admin/settings/images.php:37
+msgid "No Repeat"
+msgstr "Aucune répétition"
+
+#: ../admin/settings/images.php:40
+#: ../admin/settings/images.php:41
+msgid "Repeat Horizontal"
+msgstr "Répétition horizontale"
+
+#: ../admin/settings/images.php:44
+#: ../admin/settings/images.php:45
+msgid "Repeat Vertical"
+msgstr "Répéter verticalement"
+
+#: ../admin/settings/images.php:49
+#: ../admin/settings/images.php:50
+#: ../admin/settings/layout.php:103
+#: ../admin/settings/layout.php:104
+#: ../admin/settings/layout.php:117
+#: ../admin/settings/layout.php:118
+#: ../admin/settings/layout.php:131
+#: ../admin/settings/layout.php:132
+#: ../admin/settings/layout.php:145
+#: ../admin/settings/layout.php:146
+msgid "Tile"
+msgstr "Pavé"
+
+#: ../admin/settings/images.php:56
+#: ../admin/settings/images.php:93
+#: ../admin/settings/images.php:135
+#: ../admin/settings/images.php:166
+#: ../admin/settings/images.php:197
+msgid "Image Position"
+msgstr "Position de l'image"
+
+#: ../admin/settings/images.php:57
+#: ../admin/settings/images.php:94
+#: ../admin/settings/images.php:136
+#: ../admin/settings/images.php:167
+#: ../admin/settings/images.php:198
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: ../admin/settings/images.php:58
+#: ../admin/settings/images.php:95
+#: ../admin/settings/images.php:137
+#: ../admin/settings/images.php:168
+#: ../admin/settings/images.php:199
+msgid "Top Center"
+msgstr "En haut au centre"
+
+#: ../admin/settings/images.php:59
+#: ../admin/settings/images.php:96
+#: ../admin/settings/images.php:138
+#: ../admin/settings/images.php:169
+#: ../admin/settings/images.php:200
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: ../admin/settings/images.php:63
+#: ../admin/settings/images.php:100
+#: ../admin/settings/images.php:142
+#: ../admin/settings/images.php:173
+#: ../admin/settings/images.php:204
+msgid "Center Left"
+msgstr "Centre - gauche"
+
+#: ../admin/settings/images.php:64
+#: ../admin/settings/images.php:101
+#: ../admin/settings/images.php:143
+#: ../admin/settings/images.php:174
+#: ../admin/settings/images.php:205
+msgid "Center Center"
+msgstr "Centre - centre"
+
+#: ../admin/settings/images.php:65
+#: ../admin/settings/images.php:102
+#: ../admin/settings/images.php:144
+#: ../admin/settings/images.php:175
+#: ../admin/settings/images.php:206
+msgid "Center Right"
+msgstr "Centre - droite"
+
+#: ../admin/settings/images.php:69
+#: ../admin/settings/images.php:106
+#: ../admin/settings/images.php:148
+#: ../admin/settings/images.php:179
+#: ../admin/settings/images.php:210
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: ../admin/settings/images.php:70
+#: ../admin/settings/images.php:107
+#: ../admin/settings/images.php:149
+#: ../admin/settings/images.php:180
+#: ../admin/settings/images.php:211
+msgid "Bottom Center"
+msgstr "En bas au centre"
+
+#: ../admin/settings/images.php:71
+#: ../admin/settings/images.php:108
+#: ../admin/settings/images.php:150
+#: ../admin/settings/images.php:181
+#: ../admin/settings/images.php:212
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: ../admin/settings/images.php:76
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: ../admin/settings/images.php:114
+msgid "Content Image"
+msgstr "Contenu de l'image"
+
+#: ../admin/settings/images.php:114
+msgid "repeat by Y and w/out opacity"
+msgstr "répéter par Y et sans opacité"
+
+#: ../admin/settings/images.php:124
+msgid "Sidebar Image"
+msgstr "Image de la barre latérale"
+
+#: ../admin/settings/images.php:155
+msgid "Extrabar Image"
+msgstr "Image dans l'extrabarre"
+
+#: ../admin/settings/images.php:186
+msgid "Footer Image"
+msgstr "Image de pied de page"
+
+#: ../admin/settings/layout.php:1
+msgid "Layout"
+msgstr "Mise en forme"
+
+#: ../admin/settings/layout.php:61
+#: ../admin/settings/slideshow.php:32
+msgid "Options"
+msgstr "Options"
+
+#: ../admin/settings/layout.php:64
+msgid "Header Height"
+msgstr "Hauteur de l'en-tête"
+
+#: ../admin/settings/layout.php:73
+msgid "Container Width"
+msgstr "Largeur du contenu"
+
+#: ../admin/settings/layout.php:82
+msgid "Sidebar Width"
+msgstr "Largeur de la barre latérale"
+
+#: ../admin/settings/layout.php:91
+msgid "Extra Bar Width"
+msgstr "Largeur de l'extrabarre"
+
+#: ../admin/settings/layout.php:98
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: ../admin/settings/layout.php:100
+#: ../admin/settings/layout.php:101
+#: ../admin/settings/layout.php:114
+#: ../admin/settings/layout.php:115
+#: ../admin/settings/layout.php:128
+#: ../admin/settings/layout.php:129
+#: ../admin/settings/layout.php:142
+#: ../admin/settings/layout.php:143
+msgid "Default"
+msgstr "Défaut"
+
+#: ../admin/settings/layout.php:106
+#: ../admin/settings/layout.php:107
+#: ../admin/settings/layout.php:120
+#: ../admin/settings/layout.php:121
+#: ../admin/settings/layout.php:134
+#: ../admin/settings/layout.php:135
+#: ../admin/settings/layout.php:148
+#: ../admin/settings/layout.php:149
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/settings/layout.php:112
+msgid "Archive"
+msgstr "Archive"
+
+#: ../admin/settings/layout.php:126
+msgid "Search"
+msgstr "Recherche"
+
+#: ../admin/settings/layout.php:140
+msgid "Index"
+msgstr "Index"
+
+#: ../admin/settings/sidebar.php:1
+#: ../admin/settings/sidebar.php:5
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../admin/settings/sidebar.php:14
+#: ../admin/settings/sidebar.php:15
+msgid "Two"
+msgstr "Deux"
+
+#: ../admin/settings/sidebar.php:21
+#: ../admin/settings/sidebar.php:22
+msgid "Two Right"
+msgstr "Deux à droite"
+
+#: ../admin/settings/sidebar.php:24
+#: ../admin/settings/sidebar.php:25
+msgid "Two Left"
+msgstr "Deux à gauche"
+
+#: ../admin/settings/slideshow.php:2
+#: ../admin/settings/slideshow.php:67
+msgid "Slideshow"
+msgstr "Diaporama"
+
+#: ../admin/settings/slideshow.php:26
+msgid "Enable slideshow"
+msgstr "Activer le diaporama"
+
+#: ../admin/settings/slideshow.php:28
+msgid "by default use images from posts on current page"
+msgstr "par défaut utiliser les images des articles sur cette page"
+
+#: ../admin/settings/slideshow.php:35
+msgid "Show on page"
+msgstr "Montrer sur la page"
+
+#: ../admin/settings/slideshow.php:38
+msgid "Show on single post"
+msgstr "Montrer sur les articles seulement"
+
+#: ../admin/settings/slideshow.php:43
+#: ../admin/settings/slideshow.php:44
+msgid "In Content"
+msgstr "Dans le contenu"
+
+#: ../admin/settings/slideshow.php:47
+#: ../admin/settings/slideshow.php:48
+msgid "Over Content"
+msgstr "Au dessus du contenu"
+
+#: ../admin/settings/slideshow.php:55
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../admin/settings/slideshow.php:67
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "utiliser <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: ../admin/settings/slideshow.php:69
+#: ../admin/settings/slideshow.php:70
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ../admin/settings/slideshow.php:84
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "Vous pouvez utiliser le plugin <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> pour créer des diaporamas personnalisés"
+
+#: ../admin/settings/themes.php:1
+msgid "Themes"
+msgstr "Thèmes"
+
+#: ../admin/settings/themes.php:42
+msgid "File \"style.css\" is not exists"
+msgstr "Le fichier \"style.css\" n'existe pas"
+
+#: ../admin/settings/themes.php:43
+msgid "Anonymous"
+msgstr "Anonyme"
+
+#: ../admin/settings/themes.php:55
+msgid "version"
+msgstr "version"
+
+#: ../widgets/many-in-one.php:23
+msgid "Global categories"
+msgstr "Catégories globales"
+
+#: ../widgets/many-in-one.php:24
+msgid "Many In One"
+msgstr "Plusieurs en un"
+

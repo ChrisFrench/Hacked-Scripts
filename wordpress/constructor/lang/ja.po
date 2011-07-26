@@ -1,0 +1,1118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: constructor-ja 20100110\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-10 19:00+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Toshi Oshio <toshifme@gmail.com>\n"
+"Language-Team: falcon-space <toshifme@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:25
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:24
+msgid "Pages"
+msgstr "ページ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:20
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:22
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:32
+msgid "Tags"
+msgstr "タグ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/sidebar.php:27
+msgid "Meta"
+msgstr "メタ情報"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:17
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:20
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "%s へのパーマリンク"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:21
+#: W:/www/wordpress/wp-content/themes/constructor/slideshow.php:26
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:23
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:52
+msgid "Read the rest of this entry &raquo;"
+msgstr "続きを読む  &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:86
+msgid "Edit"
+msgstr "編集"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "No Comments &#187;"
+msgstr "コメントなし &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "1 Comment &#187;"
+msgstr "1件のコメント &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "% Comments &#187;"
+msgstr "%件のコメント &#187;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/single.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:34
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:34
+msgid "Comments Closed"
+msgstr "コメント非対応"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-authors.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-monocolumn.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/page.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:84
+msgid "Back to Parent Page"
+msgstr "親ページに戻る"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; 古いエントリー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/layout-tile.php:31
+#: W:/www/wordpress/wp-content/themes/constructor/layout-list.php:33
+msgid "Newer Entries &raquo;"
+msgstr "新しいエントリー &laquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿は、パスワードで保護されています。コメントを見るにはパスワードを入力してください。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "No Responses"
+msgstr "レスポンスなし"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "One Response"
+msgstr "1件のレスポンス"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+msgid "% Responses"
+msgstr "%件のレスポンス"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;へ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:39
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "コメントをどうぞ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "%sへのコメントをどうぞ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>している必要があります。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a>としてログイン中"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out of this account"
+msgstr "ログアウトする"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:63
+msgid "Log out &raquo;"
+msgstr "ログアウト &raquo;"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+msgid "Name"
+msgstr "名前"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:68
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "(required)"
+msgstr "（必須）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:71
+msgid "Mail (will not be published)"
+msgstr "メールアドレス（公開されません）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:74
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> これらのタグを使えます。<code>%s</code>"
+
+#: W:/www/wordpress/wp-content/themes/constructor/comments.php:82
+msgid "Submit Comment"
+msgstr "コメントを投稿"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:30
+#, php-format
+msgid "%b"
+msgstr "%b"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-archive.php:31
+msgid "%B"
+msgstr "%B"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:13
+msgid "Error 404 - Not Found"
+msgstr "404エラーです。このページは見つかりませんでした。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/404.php:16
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "申し訳ありません。お探しのものはここでは見つかりませんでした。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:251
+msgid "Home"
+msgstr "ホーム"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:283
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "RSS Feed"
+msgstr "RSSフィード"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:377
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:29
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s  powered by %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:378
+#: W:/www/wordpress/wp-content/themes/constructor/themes/example/config.php:30
+msgid "Constructor Theme"
+msgstr "Constructorテーマ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:379
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$sと%2$sです。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:379
+msgid "Entries (RSS)"
+msgstr "エントリー（RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:379
+msgid "Comments (RSS)"
+msgstr "コメント（RSS)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:383
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d件のクエリに対して、%s秒かかりました。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:410
+#: W:/www/wordpress/wp-content/themes/constructor/functions.php:421
+msgid "No Image"
+msgstr "画像なし"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:22
+msgid "Author RSS Feed"
+msgstr "執筆者のRSSフィード"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:28
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:32
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:31
+msgid "Full Name"
+msgstr "姓名"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:35
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:41
+msgid "Visit author website"
+msgstr "執筆者のウェブサイトを閲覧する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:45
+msgid "ICQ"
+msgstr "ICQ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:50
+msgid "AIM"
+msgstr "AIM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:55
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:60
+msgid "MSN"
+msgstr "MSN"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:65
+msgid "About Me"
+msgstr "私について"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:74
+#, php-format
+msgid "Last posts by %s"
+msgstr "%sによる最新投稿"
+
+#: W:/www/wordpress/wp-content/themes/constructor/author.php:87
+msgid "No posts by this author."
+msgstr "この執筆者による投稿はありません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/template-sitemap.php:32
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:23
+msgid "Global categories"
+msgstr "全体カテゴリー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/widgets/many-in-one.php:24
+msgid "Many In One"
+msgstr "Many In One"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:71
+#, php-format
+msgid "System can't create \"%s\" directory"
+msgstr "\"%s\"というディレクトリを生成出来ませんでした。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:86
+#, php-format
+msgid "File \"%s\" is not a image (jpeg, png, gif)"
+msgstr "このファイル\"%s\" は画像(jpeg, png, gif)ではありません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:175
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:230
+msgid "Customize Theme"
+msgstr "テーマのカスタマイズ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:175
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:233
+msgid "If you like this theme and find it useful, help keep this theme free and actively developed by clicking the donate button (via PayPal or CC)"
+msgstr "もしこのテーマを気に入って使いやすいと思っていただけましたら、このテーマを無償で継続的に開発できるように、PayPalまたはCC経由での寄付をよろしくお願いいたします。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:237
+msgid "Options saved."
+msgstr "オプション設定を保存しました。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:242
+msgid "Errors"
+msgstr "エラー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings.php:269
+msgid "Save Changes"
+msgstr "変更を保存しました。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:1
+msgid "Fonts"
+msgstr "フォント"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:18
+msgid "Header Font"
+msgstr "ヘッダーのフォント"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:24
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:40
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "The quick brown fox jumps over the lazy dog"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/fonts.php:34
+msgid "Body Font"
+msgstr "本文のフォント"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:1
+msgid "Colors"
+msgstr "色"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:62
+msgid "Opacity"
+msgstr "不透明度"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:65
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:86
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:87
+msgid "None"
+msgstr "なし"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:67
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:68
+msgid "Color"
+msgstr "色"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:71
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:72
+msgid "Dark Low"
+msgstr "ダーク低め"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:74
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:75
+msgid "Dark"
+msgstr "ダーク"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:78
+msgid "Dark High"
+msgstr "ダーク高め"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:81
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:82
+msgid "Light Low"
+msgstr "ライト低め"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:84
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:85
+msgid "Light"
+msgstr "ライト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:87
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:88
+msgid "Light High"
+msgstr "ライト高め"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:93
+msgid "Shadow"
+msgstr "影付き"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:96
+msgid "Only for Safari and Chrome"
+msgstr "SafariとChromeのみ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:100
+msgid "Elements Colors"
+msgstr "各要素の色"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:103
+msgid "background"
+msgstr "背景"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:106
+msgid "background alternative"
+msgstr "背景（代替）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:109
+msgid "opacity style color"
+msgstr "不透明スタイルの色"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:112
+msgid "text"
+msgstr "テキスト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:115
+msgid "text alternative"
+msgstr "テキスト（代替）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:118
+msgid "border"
+msgstr "ボーダー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:121
+msgid "border alternative"
+msgstr "ボーダー（代替）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:124
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:127
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/colors.php:130
+msgid "tags"
+msgstr "タグ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:1
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:74
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:47
+msgid "Width"
+msgstr "幅"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:50
+msgid "Container Width"
+msgstr "コンテナーの幅"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:59
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:68
+msgid "Extra Bar Width"
+msgstr "エキストラバーの幅"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:76
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:43
+msgid "Left"
+msgstr "左"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:79
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:80
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:44
+msgid "Right"
+msgstr "右"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:83
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:84
+msgid "Two"
+msgstr "２列"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:90
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:91
+msgid "Two Right"
+msgstr "右２列"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/sidebar.php:94
+msgid "Two Left"
+msgstr "左２列"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:1
+msgid "CSS"
+msgstr "CSS"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/css.php:5
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>警告です</b></font>: このファイル \"%s\" は書き込みできません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:2
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:88
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:28
+msgid "Enable slideshow"
+msgstr "スライドショーを使用可にする"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:34
+msgid "By default use images from posts with custom field <code>thumb-slideshow</code>"
+msgstr "デフォルトで"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:38
+msgid "Options"
+msgstr "オプション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:41
+msgid "Show on page"
+msgstr "ページで表示"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:44
+msgid "Show on single post"
+msgstr "単独投稿ページで表示"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:50
+msgid "Height"
+msgstr "高さ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:59
+msgid "Advanced options"
+msgstr "高度オプション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:60
+msgid "only for default slideshow"
+msgstr "デフォルトスライドショーのみ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:64
+msgid "Number of slides"
+msgstr "スライド数"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:67
+msgid "Key of custom field"
+msgstr "カスタムフィールドのキー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:71
+msgid "Position"
+msgstr "ポジション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:73
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:74
+msgid "In Content"
+msgstr "コンテンツ領域の中"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:77
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:78
+msgid "Over Content"
+msgstr "コンテンツ領域の上"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:89
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>を使う"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:92
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:93
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:12
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:13
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:26
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:27
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:40
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:41
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:54
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:55
+msgid "Default"
+msgstr "デフォルト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/slideshow.php:107
+msgid "You can use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin for build custom slideshow"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>プラグインを使って、自分のスライドショーを作ることができます。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:1
+msgid "Layout"
+msgstr "レイアウト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:10
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:15
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:16
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:57
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:58
+msgid "Tile"
+msgstr "タイル"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:18
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:19
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:32
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:33
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:46
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:47
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:60
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:61
+msgid "List"
+msgstr "リスト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:24
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:38
+msgid "Search"
+msgstr "検索"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/layout.php:52
+msgid "Index"
+msgstr "インデックス"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:1
+msgid "Export"
+msgstr "エクスポート"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:3
+msgid "Export Current Theme"
+msgstr "現在のテーマをエクスポートする"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:4
+msgid "Use this is options for export your changes"
+msgstr "変更内容をエクスポートためのメニューです。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:4
+msgid "save changes before export"
+msgstr "エクスポートする前に変更内容を保存してください。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:7
+msgid "click here and save file"
+msgstr "ここをクリックしてファイルを保存します。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:13
+#, php-format
+msgid "For import theme - use your FTP access and create new folder in folder <code>%s/themes</code> and upload <code>config.php</code>"
+msgstr "テーマをインポートするには、FTPでアクセスし新しいフォルダを<code>%s/themes</code>の中に作成して、<code>config.php</code>をアップロードします。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:18
+msgid "Create <code>style.css</code> with follow text (change text in UPPERCASE)"
+msgstr "下記のテキストで、<code>style.css</code>を作成してください。 (大文字表記の部分を変更してください)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/export.php:32
+msgid "Create <code>screenshot.png</code> with screen of your theme and resolution 300x225 and upload too (isn't requried)"
+msgstr "あなたのテーマのスクリーンショットを300ｘ225ピクセルのサイズで <code>screenshot.png</code> を作成し、アップロードしてください。(必須ではありません)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:1
+msgid "Content"
+msgstr "コンテンツ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:6
+msgid "Posts"
+msgstr "投稿"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:9
+msgid "Show author link"
+msgstr "執筆者へのリンクを表示"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:13
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:16
+msgid "Autogenerate thumbnails"
+msgstr "自動生成のサムネイル"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:24
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>警告です!</b></font>: ディレクトリ \"%s\" は書き込みできません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:28
+msgid "\"List\" layout options"
+msgstr "\"リスト\"レイアウトオプション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:31
+msgid "Strip HTML tags from announce (leave only <code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>)"
+msgstr "本文からHTMLタグを外す (<code>&lt;p&gt;&lt;br&gt;&lt;a&gt;&lt;hr&gt;&lt;i&gt;&lt;em&gt;&lt;b&gt;&lt;strong&gt;&lt;ul&gt;&lt;ol&gt;&lt;li&gt;</code>のみ残します)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:37
+msgid "Show \"No Image\" picture"
+msgstr "\"No Image\" 画像を表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/content.php:42
+msgid "Thumbnail position"
+msgstr "サムネイルのポジション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:1
+msgid "Footer"
+msgstr "フッター"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/footer.php:4
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:1
+msgid "Images"
+msgstr "画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:24
+msgid "Body Image"
+msgstr "本文の画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:75
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:122
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:162
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:202
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:242
+msgid "Preview image"
+msgstr "プレビュー画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:75
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:122
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:162
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:202
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:242
+msgid "preview"
+msgstr "プレビュー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:76
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:123
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:163
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:203
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:243
+msgid "Remove image (only from theme)"
+msgstr "画像を削除（テーマからのみ）"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:30
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:76
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:123
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:163
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:203
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:243
+msgid "clear"
+msgstr "クリア"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:37
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:83
+msgid "Fixed position"
+msgstr "固定ポジション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:42
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:88
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:129
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:169
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:209
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:249
+msgid "Image Position"
+msgstr "画像ポジション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:43
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:89
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:130
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:170
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:210
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:250
+msgid "Top Left"
+msgstr "トップ左"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:44
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:90
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:131
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:171
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:211
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:251
+msgid "Top Center"
+msgstr "トップ中央"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:45
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:91
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:132
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:172
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:212
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:252
+msgid "Top Right"
+msgstr "トップ右"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:49
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:95
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:136
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:176
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:216
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:256
+msgid "Center Left"
+msgstr "中央左"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:50
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:96
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:137
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:177
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:217
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:257
+msgid "Center Center"
+msgstr "中央の中央"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:51
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:97
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:138
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:178
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:218
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:258
+msgid "Center Right"
+msgstr "中央右"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:55
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:101
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:142
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:182
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:222
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:262
+msgid "Bottom Left"
+msgstr "ボトム左"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:56
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:102
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:143
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:183
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:223
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:263
+msgid "Bottom Center"
+msgstr "ボトム中央"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:57
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:103
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:144
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:184
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:224
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:264
+msgid "Bottom Right"
+msgstr "ボトム右"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:60
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:106
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:148
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:188
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:228
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:267
+msgid "Image Repeat"
+msgstr "イメージのリピート"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:61
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:107
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:149
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:189
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:229
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:268
+msgid "No Repeat"
+msgstr "リピートなし"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:62
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:108
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:150
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:190
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:230
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:269
+msgid "Repeat Horizontal"
+msgstr "横方向にリピート"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:64
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:110
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:152
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:192
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:232
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:271
+msgid "Repeat Vertical"
+msgstr "縦方向にリピート"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:70
+msgid "Background Image"
+msgstr "背景画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:117
+msgid "Content Image"
+msgstr "本文画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:157
+msgid "Sidebar Image"
+msgstr "サイドバー画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:197
+msgid "Extrabar Image"
+msgstr "エキストラバー画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/images.php:237
+msgid "Footer Image"
+msgstr "フッター画像"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:1
+msgid "Header"
+msgstr "ヘッダー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:23
+msgid "Title position"
+msgstr "タイトルポジション"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:26
+msgid "Center"
+msgstr "中央"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:32
+msgid "Title colors"
+msgstr "タイトル色"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:35
+msgid "title"
+msgstr "タイトル"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:38
+msgid "description"
+msgstr "説明文"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:44
+msgid "Header height"
+msgstr "ヘッダーの高さ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:54
+msgid "Header menu"
+msgstr "ヘッダーメニュー"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:55
+msgid "menu can configured with <a href=\"widgets.php\">widgets</a>, use \"header\" sidebar"
+msgstr "ヘッダーは<a href=\"widgets.php\">widgets</a>で設定できます\"ヘッダー\" サイドバーを使います。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:61
+msgid "Show top menu"
+msgstr "トップメニューを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:66
+msgid "Disable pages"
+msgstr "ページを非表示にする"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:67
+msgid "Show first-level pages"
+msgstr "第一階層のページを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:68
+msgid "Show pages in drop-down menu"
+msgstr "ドロップダウンメニューでページを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:69
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "ドロップダウンメニュー（第二階層まで）でページを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:74
+msgid "Group categories in one menu item"
+msgstr "１つのメニュー項目にカテゴリーをグループ化する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:77
+msgid "Disable categories"
+msgstr "カテゴリーを非表示にする"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:78
+msgid "Show first-level categories"
+msgstr "第一階層のカテゴリーを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:79
+msgid "Show categories in drop-down menu"
+msgstr "ドロップダウンメニューでカテゴリーを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:80
+msgid "Show categories in drop-down menu (2-levels)"
+msgstr "ドロップダウンメニュー（第二階層まで）でカテゴリーを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:83
+msgid "Links"
+msgstr "リンク"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:86
+msgid "Show link to home page"
+msgstr "ホームページへのリンクを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:89
+msgid "Show link to RSS feed"
+msgstr "RSSフィードのリンクを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:91
+msgid "Tools"
+msgstr "ツール"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/header.php:94
+msgid "Show search form"
+msgstr "検索フォームを表示する"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:1
+msgid "Help"
+msgstr "ヘルプ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:6
+msgid "Constructor Wordpress Theme"
+msgstr "Constructor Wordpress テーマ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:8
+msgid "Project Homepage"
+msgstr "プロジェクトウェブサイト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:9
+msgid "Author Homepage"
+msgstr "作者ウェブサイト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:12
+msgid "Tile layout"
+msgstr "タイルレイアウト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:14
+msgid "For \"tile\" layout using images from custom fields with key <code>thumb</code> (or use autogenerate option on content tab)"
+msgstr "\"タイル\"レイアウトには、<code>thumb</code>キーが設定されたカスタムフィールドにある画像を使います。(または、コンテンツタブで設定されている自動生成オプションを使います)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:17
+msgid "List layout"
+msgstr "リストレイアウト"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:19
+msgid "For \"list\" layout using images from custom fields with key <code>thumb-list</code> (or use autogenerate option on content tab)"
+msgstr "\"リスト\"レイアウトには、<code>thumb-list</code>キーが設定されたカスタムフィールドにある画像を使います。(または、コンテンツタブで設定されている自動生成オプションを使います)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:24
+msgid "For slideshow using images from custom fields with key <code>thumb-slideshow</code> (by default, your can change it on slideshow tab)"
+msgstr "スライドショーには、<code>thumb-slideshow</code>キーが設定されたカスタムフィールドにある画像を使います。(デフォルトでは、スライドショータブで変更できます)"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:28
+msgid "Related Links"
+msgstr "関連リンク"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:38
+msgid "Donate"
+msgstr "寄付"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/help.php:65
+msgid "Author works"
+msgstr "作者の作品"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:1
+msgid "Save As"
+msgstr "別名で保存"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:13
+msgid "Save Current Theme As ..."
+msgstr "現在のテーマを別名で保存"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:24
+msgid "Theme Name"
+msgstr "テーマ名"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:28
+msgid "Theme URI"
+msgstr "テーマURI"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:32
+msgid "Description"
+msgstr "説明文"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:36
+msgid "Version"
+msgstr "バージョン"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:40
+msgid "Author"
+msgstr "作者"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:44
+msgid "Author URI"
+msgstr "作者URI"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/save.php:49
+msgid "Save Theme"
+msgstr "テーマを保存"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:1
+msgid "Themes"
+msgstr "テーマ"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:42
+msgid "File \"style.css\" is not exists"
+msgstr "ファイル\"style.css\"がありません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:43
+msgid "Anonymous"
+msgstr "匿名"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/settings/themes.php:55
+msgid "version"
+msgstr "バージョン"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:29
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:32
+#, php-format
+msgid "Directory \"%s\" is not writable."
+msgstr "ディレクトリ\"%s\"に書き込みできません。"
+
+#: W:/www/wordpress/wp-content/themes/constructor/admin/ajax/save.php:93
+msgid "Theme was saved, please reload page for view changes"
+msgstr "テーマは保存されました。ページをリロードして、変更をご覧ください。"
+

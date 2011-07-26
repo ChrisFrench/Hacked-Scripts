@@ -1,0 +1,45 @@
+/*  
+Theme Name: Constructor
+Stylesheet: Printable
+*/
+#wrapheader, #header, #wrapfooter, #footer, .sidebar {
+    display:none;
+}
+#content {
+    border:0 !important;
+}
+#container {
+    width:100% !important;
+    margin:0 !important;
+    padding:0 !important;
+    border:0 !important;
+    box-shadow:none !important;
+    -moz-box-shadow:none !important;
+    -webkit-box-shadow:none !important;
+}
+    #posts {
+        margin:0 10px !important;
+        padding:0 !important;
+    }
+    
+        .hentry .title {
+            border:0 !important;
+            margin-bottom:0;
+            padding:4px;
+        }
+            .hentry .title a {
+                padding:0px;
+            }
+        .hentry .footer {
+            display:none;
+        }
+        
+#slideshow, #respond {
+    display:none;
+}
+.more-link, .navigation {
+    display:none;
+}
+.box {
+    border:0 !important;
+}

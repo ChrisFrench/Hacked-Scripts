@@ -1,0 +1,29 @@
+/*
+Theme Name: Lime
+Theme URI: 
+Description: Lime Constructor Theme
+Version: 1.0.1
+Author: Anton Shevchuk
+Author URI: http://anton.shevchuk.name/
+*/
+.hentry .footer {
+	height:80px;
+	background: url(line.png) 50% 100% no-repeat
+}
+
+.navigation .alignleft a,
+.navigation .alignright a{
+    text-indent:-9999%;
+    display:block;
+    width:64px;
+    height:40px;
+    margin:0 20px
+}
+.navigation .alignleft a{background: url(prev.png) 0 0 no-repeat}
+.navigation .alignright a{background: url(next.png) 0 0 no-repeat}
+.navigation .alignleft a:hover,
+.navigation .alignright a:hover {background-position: 100% 100%}
+
+body.page .hentry .title a {
+text-align:center;
+}

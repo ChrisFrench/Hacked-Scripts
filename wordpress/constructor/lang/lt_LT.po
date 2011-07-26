@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Constructor Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-25 13:17+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tomas Kikutis <t.kikutis@gmail.com>\n"
+"Language-Team: Anton Shevchuk <AntonShevchuk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor\n"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/404.php:11
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:40
+msgid "Error 404 - Not Found"
+msgstr "Klaida 404 - Puslapis nerastas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/404.php:14
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:43
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Atsiprašome, negalime rasti nieko kas atitiktų jūsų paieškos kriterijus"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/404.php:24
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:36
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:32
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:36
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ankstesni įrašai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/404.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:37
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:33
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:37
+msgid "Newer Entries &raquo;"
+msgstr "Naujesni įrašai &raquo;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/sidebar.php:17
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/functions.php:160
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:19
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:21
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:19
+msgid "Pages"
+msgstr "Puslapiai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/sidebar.php:19
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:16
+msgid "Categories"
+msgstr "Temos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/sidebar.php:21
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:24
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:23
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:24
+msgid "Tags"
+msgstr "Žymės"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/functions.php:130
+msgid "Home"
+msgstr "Pagrindinis"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/functions.php:132
+msgid "RSS Feed"
+msgstr "Prenumeruoti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-archives.php:16
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:15
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:16
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:15
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:15
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Nuorodą į %s"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-archives.php:19
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:18
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:20
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:18
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:18
+msgid "Read the rest of this entry &raquo;"
+msgstr "Skaityti pilną įrašą &raquo;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-archives.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:38
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:24
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:25
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Šis įrašas yra apsaugotas slaptažodžiu.Įveskite slaptažodį norėdami peržiūrėti komentarus."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:21
+msgid "No Responses"
+msgstr "Nėra atsakymų"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:21
+msgid "One Response"
+msgstr "Vienas atsakymas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:21
+msgid "% Responses"
+msgstr "% atsakymai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "Į &#8220;%s&#8221;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:39
+msgid "Comments are closed."
+msgstr "Komentavimas šiame įraše neleistinas."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:49
+msgid "Leave a Reply"
+msgstr "Komentuoti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:49
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Komentuoti įrašą %s"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Turite būti <a href=\"%s\">Prisijungę</a> norėdami rašyti komentarą."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Prisijungta kaip <a href=\"%1$s\">%2$s</a>."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:63
+msgid "Log out of this account"
+msgstr "Atsijungti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:63
+msgid "Log out &raquo;"
+msgstr "Atsijungti &raquo;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:68
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:68
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:71
+msgid "(required)"
+msgstr "(privaloma)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:71
+msgid "Mail (will not be published)"
+msgstr "el.pašto adresas (nebus viešai rodomas)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:74
+msgid "Website"
+msgstr "Svetainė"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:78
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong>Galite naudoti šį html formatavimą: <code>%s</code>"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/comments.php:82
+msgid "Submit Comment"
+msgstr "Įrašyti komentarą"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:23
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:22
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:23
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:26
+msgid "No Comments &#187;"
+msgstr "Nėra komentarų &#187;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:26
+msgid "1 Comment &#187;"
+msgstr "1 komentaras &#187;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:26
+msgid "% Comments &#187;"
+msgstr "% komentarai &#187;"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/single.php:26
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/index.php:25
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page.php:26
+msgid "Comments Closed"
+msgstr "Komentavimas šiame įraše neleistinas."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/page-sitemap.php:31
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:22
+msgid "Archives"
+msgstr "Archyvas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:28
+msgid "Blogroll"
+msgstr "Draugų blog'ai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:35
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s išdidžiai palaikoma %2$s sistemos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:36
+msgid "Constructor Theme"
+msgstr "Tema: \"Constructor\""
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:38
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s ir %2$s."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:38
+msgid "Entries (RSS)"
+msgstr "Prenumeruoti įrašus (RSS)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/footer.php:38
+msgid "Comments (RSS)"
+msgstr "Prenumeruoti komentarus (RSS)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:48
+#, php-format
+msgid "File \"%s\" is not a image"
+msgstr "\"%s\" nėra paveiksliuko failas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:88
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:115
+msgid "Customize Theme"
+msgstr "Redaguoti temą"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:88
+msgid "Customize"
+msgstr "Redaguoti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:116
+msgid "Options saved."
+msgstr "Nustatymai išsaugoti."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:120
+msgid "Errors"
+msgstr "Klaidos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:167
+msgid "Themes"
+msgstr "Temos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:168
+msgid "Layout"
+msgstr "Išdėstymas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:169
+msgid "Header"
+msgstr "Header'is"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:170
+msgid "Colors"
+msgstr "Spalvos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:171
+msgid "Fonts"
+msgstr "Šriftai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:172
+msgid "CSS"
+msgstr "CSS"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:173
+msgid "Images"
+msgstr "Paveiksliukai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:174
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:499
+msgid "Slideshow"
+msgstr "Paveiksliukų peržiūra"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:189
+msgid "File \"styles.css\" is not exists"
+msgstr "Failas \"styles.css\" neegzistuoja."
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:190
+msgid "Anonymous"
+msgstr "Anonimiškas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:203
+msgid "version"
+msgstr "Versija"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:213
+msgid "Sidebar"
+msgstr "Sidebar'as"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:215
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:216
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:245
+msgid "Left"
+msgstr "Kairė"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:218
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:219
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:247
+msgid "Right"
+msgstr "Dešinė"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:222
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:223
+msgid "Two"
+msgstr "Du"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:225
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:226
+msgid "None"
+msgstr "Nėra"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:229
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:230
+msgid "Two Right"
+msgstr "Du iš dešinės"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:232
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:233
+msgid "Two Left"
+msgstr "Du iš kairės"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:243
+msgid "Title position"
+msgstr "Pavadinimo(title) pozicija"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:246
+msgid "Center"
+msgstr "Centre"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:252
+msgid "Title colors"
+msgstr "Pavadinimo(title) spalvos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:255
+msgid "title"
+msgstr "Pavadinimas(title)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:258
+msgid "description"
+msgstr "Aprašymas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:263
+msgid "Header menu"
+msgstr "Header'io meniu"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:266
+msgid "Don't show menu"
+msgstr "Nerodyti meniu"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:269
+msgid "Show first-level pages"
+msgstr "Rodyti pirmo lygio puslapius"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:272
+msgid "Show pages in drop-down menu"
+msgstr "Rodyti visus puslapius išsiskleidžiančiame(dropdown) meniu"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:275
+msgid "Show pages in drop-down menu (2-levels)"
+msgstr "Rodyti visus puslapius išsiskleidžiančiame(dropdown) meniu (2-lygių)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:278
+msgid "Show link to home page"
+msgstr "Rodyti nuorodą į pagrindinį"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:281
+msgid "Show link to RSS feed"
+msgstr "Rodyti prenumeratos nuorodą"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:284
+msgid "Show font resizer"
+msgstr "Rodyti šrifto dydžio keitiklį"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:292
+msgid "Opacity"
+msgstr "Permatomumas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:294
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:295
+msgid "Dark"
+msgstr "Tamsumas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:297
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:298
+msgid "Light"
+msgstr "Šviesumas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:303
+msgid "Elements Colors"
+msgstr "Elementų spalvos"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:306
+msgid "background"
+msgstr "Fonas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:309
+msgid "background alternative"
+msgstr "Fono alternatyva"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:312
+msgid "text"
+msgstr "Tekstas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:315
+msgid "text alternative"
+msgstr "Teksto alternatyva"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:318
+msgid "border"
+msgstr "Apvadas(border)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:321
+msgid "border alternative"
+msgstr "Apvado(border) alternatyva"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:324
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:327
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:330
+msgid "tags"
+msgstr "tag'ai"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:333
+msgid "hightlight color"
+msgstr "Paryškinimo(highlight) spalva"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:342
+msgid "Header Font"
+msgstr "Header'io šriftas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:346
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:356
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Aa Ąą Bb Cc Čč Dd Ee Ęę Ėė Ff Gg Hh Ii Įį Yy Jj Kk Ll Mm Nn Oo Pp Rr Ss Šš Tt Uu Ųų Ūū Vv Zz Žž"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:352
+msgid "Body Font"
+msgstr "Pagrindo(body) šriftas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:368
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: File \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Dėmesio!</b></font>: Failas \"%s\" Nėra rašytinas(not writable)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:385
+#, php-format
+msgid "<font color=\"red\"><b>Warning!</b></font>: Directory \"%s\" is not writable."
+msgstr "<font color=\"red\"><b>Dėmesio!</b></font>: Direktorija \"%s\" nėra rašytina(not writable)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:389
+msgid "Background Gradient"
+msgstr "Fono Gradient'as"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:393
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:403
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:433
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:464
+msgid "preview"
+msgstr "Peržiūra"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:399
+msgid "Background Image"
+msgstr "Fono paveiksliukas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:409
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:439
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:470
+msgid "Image Position"
+msgstr "Paveiksliuko pozicija"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:411
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:441
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:472
+msgid "Top Left"
+msgstr "Vršuje kairėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:412
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:442
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:473
+msgid "Top Center"
+msgstr "Viršuje per vidurį"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:413
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:443
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:474
+msgid "Top Right"
+msgstr "Viršuje dešinėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:417
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:447
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:478
+msgid "Center Left"
+msgstr "Centre kairėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:418
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:448
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:479
+msgid "Center Center"
+msgstr "Absoliučiame centre"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:419
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:449
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:480
+msgid "Center Right"
+msgstr "Centre, dešinėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:423
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:453
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:484
+msgid "Bottom Left"
+msgstr "Apačioje kairėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:424
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:454
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:485
+msgid "Bottom Center"
+msgstr "Apačioje per vidurį"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:425
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:455
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:486
+msgid "Bottom Right"
+msgstr "Apačioje dešinėje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:429
+msgid "Sidebar Image"
+msgstr "Šoninio meniu(sidebar'o) paveiksliukas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:460
+msgid "Footer Image"
+msgstr "Fotter'io paveiksliukas"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:499
+msgid "use <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+msgstr "Naudokite įskiepį <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a>"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:501
+msgid "Slideshow height"
+msgstr "Paveiksliukų peržiūros(slideshow) aukštis"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:501
+msgid "in px"
+msgstr "Pikseliais"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:508
+msgid "Show on page"
+msgstr "Rodyti puslapyje"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:511
+msgid "Show on single post"
+msgstr "Rodyti įraše(post'e)"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:516
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:517
+msgid "Disable"
+msgstr "Nerodyti"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:531
+msgid "If you want to display slideshow on homepage, please install <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> plugin"
+msgstr "Jei norite rodyti paveiksliukū galeriją(slideshow) įdiekite <a href=\"http://wordpress.org/extend/plugins/nextgen-gallery/\">NextGEN-Gallery</a> įskiepį"
+
+#: W:/wordpress.dark.php5.nixsolutions.com/wp-content/themes/constructor/admin/settings.php:539
+msgid "Save Changes"
+msgstr "Išsaugoti pakeitimus"
+
